@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "competition": {
+    "area": {
+      "alpha2code": "WO",
+      "alpha3code": "XWO",
+      "id": 1420,
+      "name": "World"
+    },
+    "category": "default",
+    "divisionLevel": 0,
+    "format": "International cup",
+    "gender": "female",
+    "gsmId": 1633,
+    "name": "Yongchuan Tournament",
+    "type": "international",
+    "wyId": 43037
+  },
+  "competitionId": 43037,
+  "endDate": "2019-11-17",
+  "gsmId": -2095,
+  "name": "2019",
+  "startDate": "2019-11-07",
+  "wyId": 186754
+}

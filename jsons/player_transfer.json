@@ -1,0 +1,410 @@
+{
+  "player": {
+    "birthArea": {
+      "alpha2code": "PL",
+      "alpha3code": "POL",
+      "id": 616,
+      "name": "Poland"
+    },
+    "birthDate": "1995-07-01",
+    "currentNationalTeamId": 13869,
+    "currentTeamId": 2457,
+    "firstName": "Krzysztof",
+    "foot": "right",
+    "gender": "male",
+    "gsmId": 342295,
+    "height": 183,
+    "lastName": "Piątek",
+    "middleName": "",
+    "passportArea": {
+      "alpha2code": "PL",
+      "alpha3code": "POL",
+      "id": 616,
+      "name": "Poland"
+    },
+    "role": {
+      "code2": "FW",
+      "code3": "FWD",
+      "name": "Forward"
+    },
+    "shortName": "K. Piątek",
+    "status": "active",
+    "weight": 77,
+    "wyId": 329061
+  },
+  "transfer": [
+    {
+      "active": 1,
+      "announceDate": "2016-09-09",
+      "currency": "",
+      "endDate": "2018-07-01",
+      "fromTeamId": 13520,
+      "fromTeamName": "Zagłębie Lubin",
+      "playerId": 329061,
+      "startDate": "2016-09-01",
+      "teamsData": {
+        "fromTeam": {
+          "team": {
+            "area": {
+              "alpha2code": "PL",
+              "alpha3code": "POL",
+              "id": 616,
+              "name": "Poland"
+            },
+            "category": "default",
+            "children": [
+              {
+                "name": "Zagłębie Lubin U17",
+                "wyId": 65018
+              },
+              {
+                "name": "Zagłębie Lubin II",
+                "wyId": 13671
+              },
+              {
+                "name": "Zagłębie Lubin U21",
+                "wyId": 23742
+              },
+              {
+                "name": "Zagłębie Lubin U19",
+                "wyId": 27100
+              }
+            ],
+            "city": "Lubin",
+            "gender": "male",
+            "gsmId": 1663,
+            "name": "Zagłębie Lubin",
+            "officialName": "Zagłębie Lubin",
+            "type": "club",
+            "wyId": 13520
+          }
+        },
+        "toTeam": {
+          "team": {
+            "area": {
+              "alpha2code": "PL",
+              "alpha3code": "POL",
+              "id": 616,
+              "name": "Poland"
+            },
+            "category": "default",
+            "children": [
+              {
+                "name": "Cracovia Kraków U19",
+                "wyId": 27114
+              },
+              {
+                "name": "Cracovia Kraków II",
+                "wyId": 35299
+              }
+            ],
+            "city": "Kraków",
+            "gender": "male",
+            "gsmId": 1664,
+            "name": "Cracovia Kraków",
+            "officialName": "MKS Cracovia Kraków",
+            "type": "club",
+            "wyId": 13521
+          }
+        }
+      },
+      "toTeamId": 13521,
+      "toTeamName": "MKS Cracovia Kraków",
+      "transferId": 299111,
+      "type": "Transfer",
+      "value": 0
+    },
+    {
+      "active": 0,
+      "announceDate": "",
+      "currency": "EUR",
+      "endDate": "2019-01-23",
+      "fromTeamId": 13521,
+      "fromTeamName": "Cracovia Kraków",
+      "playerId": 329061,
+      "startDate": "2018-07-01",
+      "teamsData": {
+        "fromTeam": {
+          "team": {
+            "area": {
+              "alpha2code": "PL",
+              "alpha3code": "POL",
+              "id": 616,
+              "name": "Poland"
+            },
+            "category": "default",
+            "children": [
+              {
+                "name": "Cracovia Kraków U19",
+                "wyId": 27114
+              },
+              {
+                "name": "Cracovia Kraków II",
+                "wyId": 35299
+              }
+            ],
+            "city": "Kraków",
+            "gender": "male",
+            "gsmId": 1664,
+            "name": "Cracovia Kraków",
+            "officialName": "MKS Cracovia Kraków",
+            "type": "club",
+            "wyId": 13521
+          }
+        },
+        "toTeam": {
+          "team": {
+            "area": {
+              "alpha2code": "IT",
+              "alpha3code": "ITA",
+              "id": 380,
+              "name": "Italy"
+            },
+            "category": "default",
+            "children": [
+              {
+                "name": "Genoa U14",
+                "wyId": 65550
+              },
+              {
+                "name": "Genoa U18",
+                "wyId": 65357
+              },
+              {
+                "name": "Genoa U16 A&B",
+                "wyId": 36482
+              },
+              {
+                "name": "Genoa U17 A&B",
+                "wyId": 23833
+              },
+              {
+                "name": "Genoa U15",
+                "wyId": 20432
+              },
+              {
+                "name": "Genoa U19",
+                "wyId": 3703
+              }
+            ],
+            "city": "Genova",
+            "gender": "male",
+            "gsmId": 1276,
+            "name": "Genoa",
+            "officialName": "Genoa CFC",
+            "type": "club",
+            "wyId": 3193
+          }
+        }
+      },
+      "toTeamId": 3193,
+      "toTeamName": "Genoa",
+      "transferId": 608972,
+      "type": "Transfer",
+      "value": 0
+    },
+    {
+      "active": 0,
+      "announceDate": "",
+      "currency": "EUR",
+      "endDate": "2020-01-30",
+      "fromTeamId": 3193,
+      "fromTeamName": "Genoa",
+      "playerId": 329061,
+      "startDate": "2019-01-23",
+      "teamsData": {
+        "fromTeam": {
+          "team": {
+            "area": {
+              "alpha2code": "IT",
+              "alpha3code": "ITA",
+              "id": 380,
+              "name": "Italy"
+            },
+            "category": "default",
+            "children": [
+              {
+                "name": "Genoa U14",
+                "wyId": 65550
+              },
+              {
+                "name": "Genoa U18",
+                "wyId": 65357
+              },
+              {
+                "name": "Genoa U16 A&B",
+                "wyId": 36482
+              },
+              {
+                "name": "Genoa U17 A&B",
+                "wyId": 23833
+              },
+              {
+                "name": "Genoa U15",
+                "wyId": 20432
+              },
+              {
+                "name": "Genoa U19",
+                "wyId": 3703
+              }
+            ],
+            "city": "Genova",
+            "gender": "male",
+            "gsmId": 1276,
+            "name": "Genoa",
+            "officialName": "Genoa CFC",
+            "type": "club",
+            "wyId": 3193
+          }
+        },
+        "toTeam": {
+          "team": {
+            "area": {
+              "alpha2code": "IT",
+              "alpha3code": "ITA",
+              "id": 380,
+              "name": "Italy"
+            },
+            "category": "default",
+            "children": [
+              {
+                "name": "Milan U14",
+                "wyId": 65162
+              },
+              {
+                "name": "Milan U18",
+                "wyId": 65150
+              },
+              {
+                "name": "Milan U17 A&B",
+                "wyId": 20476
+              },
+              {
+                "name": "Milan U15",
+                "wyId": 20475
+              },
+              {
+                "name": "Milan U19",
+                "wyId": 26542
+              },
+              {
+                "name": "Milan U16 A&B",
+                "wyId": 28066
+              }
+            ],
+            "city": "Milano",
+            "gender": "male",
+            "gsmId": 1240,
+            "name": "Milan",
+            "officialName": "AC Milan",
+            "type": "club",
+            "wyId": 3157
+          }
+        }
+      },
+      "toTeamId": 3157,
+      "toTeamName": "Milan",
+      "transferId": 715101,
+      "type": "Transfer",
+      "value": 35000000
+    },
+    {
+      "active": 0,
+      "announceDate": "",
+      "currency": "EUR",
+      "endDate": "0000-00-00",
+      "fromTeamId": 3157,
+      "fromTeamName": "Milan",
+      "playerId": 329061,
+      "startDate": "2020-01-30",
+      "teamsData": {
+        "fromTeam": {
+          "team": {
+            "area": {
+              "alpha2code": "IT",
+              "alpha3code": "ITA",
+              "id": 380,
+              "name": "Italy"
+            },
+            "category": "default",
+            "children": [
+              {
+                "name": "Milan U14",
+                "wyId": 65162
+              },
+              {
+                "name": "Milan U18",
+                "wyId": 65150
+              },
+              {
+                "name": "Milan U17 A&B",
+                "wyId": 20476
+              },
+              {
+                "name": "Milan U15",
+                "wyId": 20475
+              },
+              {
+                "name": "Milan U19",
+                "wyId": 26542
+              },
+              {
+                "name": "Milan U16 A&B",
+                "wyId": 28066
+              }
+            ],
+            "city": "Milano",
+            "gender": "male",
+            "gsmId": 1240,
+            "name": "Milan",
+            "officialName": "AC Milan",
+            "type": "club",
+            "wyId": 3157
+          }
+        },
+        "toTeam": {
+          "team": {
+            "area": {
+              "alpha2code": "DE",
+              "alpha3code": "DEU",
+              "id": 276,
+              "name": "Germany"
+            },
+            "category": "default",
+            "children": [
+              {
+                "name": "Hertha BSC U23",
+                "wyId": 63021
+              },
+              {
+                "name": "Hertha BSC U17",
+                "wyId": 32876
+              },
+              {
+                "name": "Hertha BSC II",
+                "wyId": 2589
+              },
+              {
+                "name": "Hertha BSC U19",
+                "wyId": 3130
+              }
+            ],
+            "city": "Berlin",
+            "gender": "male",
+            "gsmId": 974,
+            "name": "Hertha BSC",
+            "officialName": "Hertha BSC",
+            "type": "club",
+            "wyId": 2457
+          }
+        }
+      },
+      "toTeamId": 2457,
+      "toTeamName": "Hertha BSC",
+      "transferId": 884606,
+      "type": "Transfer",
+      "value": 0
+    }
+  ],
+  "wyId": 329061
+}

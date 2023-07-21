@@ -1,0 +1,39 @@
+{
+  "agencies": [
+    "GESTIFUTE SA"
+  ],
+  "contractExpiration": "2022-06-30",
+  "player": {
+    "birthArea": {
+      "alpha2code": "PT",
+      "alpha3code": "PRT",
+      "id": 620,
+      "name": "Portugal"
+    },
+    "birthDate": "1985-02-05",
+    "currentNationalTeamId": 9905,
+    "currentTeamId": 3159,
+    "firstName": "Cristiano Ronaldo",
+    "foot": "right",
+    "gender": "male",
+    "height": 187,
+    "lastName": "dos Santos Aveiro",
+    "middleName": "",
+    "passportArea": {
+      "alpha2code": "PT",
+      "alpha3code": "PRT",
+      "id": 620,
+      "name": "Portugal"
+    },
+    "role": {
+      "code2": "FW",
+      "code3": "FWD",
+      "name": "Forward"
+    },
+    "shortName": "Cristiano Ronaldo",
+    "status": "active",
+    "weight": 83,
+    "wyId": 3322
+  },
+  "playerId": 3322
+}

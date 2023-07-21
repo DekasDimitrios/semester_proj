@@ -1,0 +1,239 @@
+{
+  "competition": {
+    "area": {
+      "alpha2code": "WO",
+      "alpha3code": "XWO",
+      "id": 1420,
+      "name": "World"
+    },
+    "category": "default",
+    "divisionLevel": 0,
+    "format": "International cup",
+    "gender": "female",
+    "gsmId": 456,
+    "name": "Friendlies Women",
+    "type": "international",
+    "wyId": 10
+  },
+  "competitionId": 10,
+  "season": {
+    "active": false,
+    "competitionId": 10,
+    "endDate": "2016-12-31",
+    "gsmId": 12124,
+    "name": "2016",
+    "startDate": "2016-01-01",
+    "wyId": 10174
+  },
+  "seasonId": 10174,
+  "teams": [
+    {
+      "groupName": "",
+      "team": {
+        "area": {
+          "alpha2code": "US",
+          "alpha3code": "USA",
+          "id": 840,
+          "name": "United States"
+        },
+        "category": "default",
+        "children": [
+          {
+            "name": "United States U20",
+            "wyId": 8138
+          },
+          {
+            "name": "United States U17",
+            "wyId": 8135
+          },
+          {
+            "name": "United States U19",
+            "wyId": 28889
+          }
+        ],
+        "city": "Chicago, Illinois",
+        "gender": "female",
+        "gsmId": 5977,
+        "name": "United States",
+        "officialName": "United States",
+        "type": "national",
+        "wyId": 8133
+      },
+      "teamId": 8133,
+      "totalDraws": 1,
+      "totalGoalsAgainst": 7,
+      "totalGoalsFor": 61,
+      "totalLosses": 0,
+      "totalPlayed": 15,
+      "totalPoints": 43,
+      "totalWins": 14
+    },
+    {
+      "groupName": "",
+      "team": {
+        "area": {
+          "alpha2code": "CN",
+          "alpha3code": "CHN",
+          "id": 156,
+          "name": "China PR"
+        },
+        "category": "default",
+        "city": "Beijing",
+        "gender": "female",
+        "gsmId": 5971,
+        "name": "China PR",
+        "officialName": "China PR",
+        "type": "national",
+        "wyId": 9210
+      },
+      "teamId": 9210,
+      "totalDraws": 3,
+      "totalGoalsAgainst": 8,
+      "totalGoalsFor": 32,
+      "totalLosses": 1,
+      "totalPlayed": 12,
+      "totalPoints": 27,
+      "totalWins": 8
+    },
+    {
+      "groupName": "",
+      "team": {
+        "area": {
+          "alpha2code": "BR",
+          "alpha3code": "BRA",
+          "id": 76,
+          "name": "Brazil"
+        },
+        "category": "default",
+        "children": [
+          {
+            "name": "Brazil U20",
+            "wyId": 6384
+          },
+          {
+            "name": "Brazil U17",
+            "wyId": 6383
+          }
+        ],
+        "city": "Rio de Janeiro, Rio de Janeiro",
+        "gender": "female",
+        "gsmId": 5967,
+        "name": "Brazil",
+        "officialName": "Brazil",
+        "type": "national",
+        "wyId": 6381
+      },
+      "teamId": 6381,
+      "totalDraws": 1,
+      "totalGoalsAgainst": 7,
+      "totalGoalsFor": 24,
+      "totalLosses": 1,
+      "totalPlayed": 8,
+      "totalPoints": 19,
+      "totalWins": 6
+    },
+    {
+      "groupName": "",
+      "team": {
+        "area": {
+          "alpha2code": "SK",
+          "alpha3code": "SVK",
+          "id": 703,
+          "name": "Slovakia"
+        },
+        "category": "default",
+        "children": [
+          {
+            "name": "Slovakia U19",
+            "wyId": 14500
+          }
+        ],
+        "city": "Bratislava",
+        "gender": "female",
+        "gsmId": 4127,
+        "name": "Slovakia",
+        "officialName": "Slovakia",
+        "type": "national",
+        "wyId": 14497
+      },
+      "teamId": 14497,
+      "totalDraws": 0,
+      "totalGoalsAgainst": 5,
+      "totalGoalsFor": 14,
+      "totalLosses": 0,
+      "totalPlayed": 6,
+      "totalPoints": 18,
+      "totalWins": 6
+    },
+    {
+      "groupName": "",
+      "team": {
+        "area": {
+          "alpha2code": "DE",
+          "alpha3code": "DEU",
+          "id": 276,
+          "name": "Germany"
+        },
+        "category": "default",
+        "children": [
+          {
+            "name": "Germany U16",
+            "wyId": 62854
+          },
+          {
+            "name": "Germany U17",
+            "wyId": 3151
+          }
+        ],
+        "city": "Frankfurt am Main",
+        "gender": "female",
+        "gsmId": 4110,
+        "name": "Germany",
+        "officialName": "Germany",
+        "type": "national",
+        "wyId": 3149
+      },
+      "teamId": 3149,
+      "totalDraws": 1,
+      "totalGoalsAgainst": 8,
+      "totalGoalsFor": 24,
+      "totalLosses": 1,
+      "totalPlayed": 7,
+      "totalPoints": 16,
+      "totalWins": 5
+    },
+    {
+      "groupName": "",
+      "team": {
+        "area": {
+          "alpha2code": "NL",
+          "alpha3code": "NLD",
+          "id": 528,
+          "name": "Netherlands"
+        },
+        "category": "default",
+        "children": [
+          {
+            "name": "Netherlands U20",
+            "wyId": 62614
+          }
+        ],
+        "city": "Zeist",
+        "gender": "female",
+        "gsmId": 4119,
+        "name": "Netherlands",
+        "officialName": "Netherlands",
+        "type": "national",
+        "wyId": 665
+      },
+      "teamId": 665,
+      "totalDraws": 0,
+      "totalGoalsAgainst": 14,
+      "totalGoalsFor": 21,
+      "totalLosses": 5,
+      "totalPlayed": 10,
+      "totalPoints": 15,
+      "totalWins": 5
+    }
+  ]
+}

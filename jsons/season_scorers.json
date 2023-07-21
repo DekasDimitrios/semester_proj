@@ -1,0 +1,469 @@
+{
+  "competition": {
+    "area": {
+      "alpha2code": "JP",
+      "alpha3code": "JPN",
+      "id": 392,
+      "name": "Japan"
+    },
+    "category": "default",
+    "divisionLevel": 1,
+    "format": "Domestic league",
+    "gender": "male",
+    "gsmId": 109,
+    "name": "J1 League",
+    "type": "club",
+    "wyId": 534
+  },
+  "competitionId": 534,
+  "players": [
+    {
+      "goals": 16,
+      "player": {
+        "birthArea": {
+          "alpha2code": "KE",
+          "alpha3code": "KEN",
+          "id": 404,
+          "name": "Kenya"
+        },
+        "birthDate": "1994-03-26",
+        "currentNationalTeamId": 18402,
+        "currentTeamId": 12807,
+        "firstName": "Michael",
+        "foot": "left",
+        "gender": "male",
+        "gsmId": 285335,
+        "height": 193,
+        "lastName": "Olunga",
+        "middleName": "",
+        "passportArea": {
+          "alpha2code": "KE",
+          "alpha3code": "KEN",
+          "id": 404,
+          "name": "Kenya"
+        },
+        "role": {
+          "code2": "FW",
+          "code3": "FWD",
+          "name": "Forward"
+        },
+        "shortName": "M. Olunga",
+        "status": "active",
+        "weight": 85,
+        "wyId": 266885
+      },
+      "playerId": 266885,
+      "team": {
+        "area": {
+          "alpha2code": "JP",
+          "alpha3code": "JPN",
+          "id": 392,
+          "name": "Japan"
+        },
+        "category": "default",
+        "children": [
+          {
+            "name": "Kashiwa Reysol U18",
+            "wyId": 23393
+          },
+          {
+            "name": "Kashiwa Reysol U19",
+            "wyId": 27879
+          },
+          {
+            "name": "Kashiwa Reysol U17",
+            "wyId": 30251
+          }
+        ],
+        "city": "Kashiwa (Chiba)",
+        "gender": "male",
+        "gsmId": 1331,
+        "name": "Kashiwa Reysol",
+        "officialName": "Kashiwa Reysol",
+        "type": "club",
+        "wyId": 12807
+      },
+      "teamId": 12807
+    },
+    {
+      "goals": 11,
+      "player": {
+        "birthArea": {
+          "alpha2code": "BR",
+          "alpha3code": "BRA",
+          "id": 76,
+          "name": "Brazil"
+        },
+        "birthDate": "1991-07-05",
+        "currentTeamId": 12800,
+        "firstName": "Everaldo",
+        "foot": "right",
+        "gender": "male",
+        "gsmId": 225224,
+        "height": 181,
+        "lastName": "Stum",
+        "middleName": "",
+        "passportArea": {
+          "alpha2code": "BR",
+          "alpha3code": "BRA",
+          "id": 76,
+          "name": "Brazil"
+        },
+        "role": {
+          "code2": "FW",
+          "code3": "FWD",
+          "name": "Forward"
+        },
+        "shortName": "Everaldo",
+        "status": "active",
+        "weight": 81,
+        "wyId": 45230
+      },
+      "playerId": 45230,
+      "team": {
+        "area": {
+          "alpha2code": "JP",
+          "alpha3code": "JPN",
+          "id": 392,
+          "name": "Japan"
+        },
+        "category": "default",
+        "children": [
+          {
+            "name": "Kashima Antlers U17",
+            "wyId": 21230
+          },
+          {
+            "name": "Kashima Antlers U18",
+            "wyId": 27206
+          }
+        ],
+        "city": "Kashima (Ibaraki)",
+        "gender": "male",
+        "gsmId": 1324,
+        "name": "Kashima Antlers",
+        "officialName": "Kashima Antlers",
+        "type": "club",
+        "wyId": 12800
+      },
+      "teamId": 12800
+    },
+    {
+      "goals": 11,
+      "player": {
+        "birthArea": {
+          "alpha2code": "BR",
+          "alpha3code": "BRA",
+          "id": 76,
+          "name": "Brazil"
+        },
+        "birthDate": "1993-01-19",
+        "currentTeamId": 12798,
+        "firstName": "Marcos Júnior",
+        "foot": "right",
+        "gender": "male",
+        "gsmId": 239932,
+        "height": 167,
+        "lastName": "Lima dos Santos",
+        "middleName": "",
+        "passportArea": {
+          "alpha2code": "BR",
+          "alpha3code": "BRA",
+          "id": 76,
+          "name": "Brazil"
+        },
+        "role": {
+          "code2": "FW",
+          "code3": "FWD",
+          "name": "Forward"
+        },
+        "shortName": "Marcos Júnior",
+        "status": "active",
+        "weight": 63,
+        "wyId": 170296
+      },
+      "playerId": 170296,
+      "team": {
+        "area": {
+          "alpha2code": "JP",
+          "alpha3code": "JPN",
+          "id": 392,
+          "name": "Japan"
+        },
+        "category": "default",
+        "children": [
+          {
+            "name": "Yokohama F. Marinos U17",
+            "wyId": 24690
+          }
+        ],
+        "city": "Yokohama",
+        "gender": "male",
+        "gsmId": 1322,
+        "name": "Yokohama F. Marinos",
+        "officialName": "Yokohama F. Marinos",
+        "type": "club",
+        "wyId": 12798
+      },
+      "teamId": 12798
+    },
+    {
+      "goals": 10,
+      "player": {
+        "birthArea": {
+          "alpha2code": "JP",
+          "alpha3code": "JPN",
+          "id": 392,
+          "name": "Japan"
+        },
+        "birthDate": "1987-09-23",
+        "currentTeamId": 12812,
+        "firstName": "Yū",
+        "foot": "right",
+        "gender": "male",
+        "gsmId": 116644,
+        "height": 177,
+        "lastName": "Kobayashi",
+        "middleName": "",
+        "passportArea": {
+          "alpha2code": "JP",
+          "alpha3code": "JPN",
+          "id": 392,
+          "name": "Japan"
+        },
+        "role": {
+          "code2": "FW",
+          "code3": "FWD",
+          "name": "Forward"
+        },
+        "shortName": "Y. Kobayashi",
+        "status": "active",
+        "weight": 72,
+        "wyId": 94928
+      },
+      "playerId": 94928,
+      "team": {
+        "area": {
+          "alpha2code": "JP",
+          "alpha3code": "JPN",
+          "id": 392,
+          "name": "Japan"
+        },
+        "category": "default",
+        "children": [
+          {
+            "name": "Kawasaki Frontale U18",
+            "wyId": 27205
+          }
+        ],
+        "city": "Kawasaki",
+        "gender": "male",
+        "gsmId": 1336,
+        "name": "Kawasaki Frontale",
+        "officialName": "Kawasaki Frontale",
+        "type": "club",
+        "wyId": 12812
+      },
+      "teamId": 12812
+    },
+    {
+      "goals": 9,
+      "player": {
+        "birthArea": {
+          "alpha2code": "BR",
+          "alpha3code": "BRA",
+          "id": 76,
+          "name": "Brazil"
+        },
+        "birthDate": "1989-07-22",
+        "currentTeamId": 12812,
+        "firstName": "Leandro Damião",
+        "foot": "right",
+        "gender": "male",
+        "gsmId": 113526,
+        "height": 188,
+        "lastName": "da Silva dos Santos",
+        "middleName": "",
+        "passportArea": {
+          "alpha2code": "BR",
+          "alpha3code": "BRA",
+          "id": 76,
+          "name": "Brazil"
+        },
+        "role": {
+          "code2": "FW",
+          "code3": "FWD",
+          "name": "Forward"
+        },
+        "shortName": "Leandro Damião",
+        "status": "active",
+        "weight": 90,
+        "wyId": 40338
+      },
+      "playerId": 40338,
+      "team": {
+        "area": {
+          "alpha2code": "JP",
+          "alpha3code": "JPN",
+          "id": 392,
+          "name": "Japan"
+        },
+        "category": "default",
+        "children": [
+          {
+            "name": "Kawasaki Frontale U18",
+            "wyId": 27205
+          }
+        ],
+        "city": "Kawasaki",
+        "gender": "male",
+        "gsmId": 1336,
+        "name": "Kawasaki Frontale",
+        "officialName": "Kawasaki Frontale",
+        "type": "club",
+        "wyId": 12812
+      },
+      "teamId": 12812
+    },
+    {
+      "goals": 9,
+      "player": {
+        "birthArea": {
+          "alpha2code": "BR",
+          "alpha3code": "BRA",
+          "id": 76,
+          "name": "Brazil"
+        },
+        "birthDate": "1997-05-28",
+        "currentTeamId": 12799,
+        "firstName": "Leonardo",
+        "foot": "right",
+        "gender": "male",
+        "gsmId": 424101,
+        "height": 180,
+        "lastName": "Nascimento Lopes de Souza",
+        "middleName": "",
+        "passportArea": {
+          "alpha2code": "BR",
+          "alpha3code": "BRA",
+          "id": 76,
+          "name": "Brazil"
+        },
+        "role": {
+          "code2": "FW",
+          "code3": "FWD",
+          "name": "Forward"
+        },
+        "shortName": "Leonardo",
+        "status": "active",
+        "weight": 70,
+        "wyId": 400249
+      },
+      "playerId": 400249,
+      "team": {
+        "area": {
+          "alpha2code": "JP",
+          "alpha3code": "JPN",
+          "id": 392,
+          "name": "Japan"
+        },
+        "category": "default",
+        "children": [
+          {
+            "name": "Urawa Reds U15",
+            "wyId": 65192
+          },
+          {
+            "name": "Urawa Reds U18",
+            "wyId": 27200
+          }
+        ],
+        "city": "Saitama",
+        "gender": "male",
+        "gsmId": 1323,
+        "name": "Urawa Reds",
+        "officialName": "Urawa Red Diamonds",
+        "type": "club",
+        "wyId": 12799
+      },
+      "teamId": 12799
+    },
+    {
+      "goals": 8,
+      "player": {
+        "birthArea": {
+          "alpha2code": "BR",
+          "alpha3code": "BRA",
+          "id": 76,
+          "name": "Brazil"
+        },
+        "birthDate": "1990-06-22",
+        "currentTeamId": 12806,
+        "firstName": "Diego",
+        "foot": "right",
+        "gender": "male",
+        "gsmId": 171512,
+        "height": 179,
+        "lastName": "Queiroz de Oliveira",
+        "middleName": "",
+        "passportArea": {
+          "alpha2code": "BR",
+          "alpha3code": "BRA",
+          "id": 76,
+          "name": "Brazil"
+        },
+        "role": {
+          "code2": "FW",
+          "code3": "FWD",
+          "name": "Forward"
+        },
+        "shortName": "Diego Oliveira",
+        "status": "active",
+        "weight": 78,
+        "wyId": 144294
+      },
+      "playerId": 144294,
+      "team": {
+        "area": {
+          "alpha2code": "JP",
+          "alpha3code": "JPN",
+          "id": 392,
+          "name": "Japan"
+        },
+        "category": "default",
+        "children": [
+          {
+            "name": "Tokyo U18",
+            "wyId": 32364
+          },
+          {
+            "name": "Tokyo U23",
+            "wyId": 37614
+          },
+          {
+            "name": "Tokyo U17",
+            "wyId": 37883
+          }
+        ],
+        "city": "Tokyo",
+        "gender": "male",
+        "gsmId": 1330,
+        "name": "Tokyo",
+        "officialName": "FC Tokyo",
+        "type": "club",
+        "wyId": 12806
+      },
+      "teamId": 12806
+    }
+  ],
+  "season": {
+    "active": true,
+    "competitionId": 534,
+    "endDate": "2020-12-19",
+    "gsmId": -2234,
+    "name": "2020",
+    "startDate": "2020-02-21",
+    "wyId": 186893
+  },
+  "seasonId": 186893
+}

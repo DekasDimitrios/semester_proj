@@ -1,0 +1,34 @@
+{
+  "area": {
+    "alpha2code": "US",
+    "alpha3code": "USA",
+    "id": 840,
+    "name": "United States"
+  },
+  "category": "default",
+  "children": [
+    {
+      "name": "Richmond United U15/16",
+      "wyId": 59333
+    },
+    {
+      "name": "Richmond United U17/18",
+      "wyId": 59421
+    },
+    {
+      "name": "Richmond United U18/19",
+      "wyId": 61155
+    },
+    {
+      "name": "Richmond United U16/17",
+      "wyId": 61231
+    }
+  ],
+  "city": "Richmond, Virginia",
+  "gender": "male",
+  "imageDataURL": "https://cdn5.wyscout.com/photos/team/public/g3196_120x120.png",
+  "name": "Richmond Kickers",
+  "officialName": "Richmond Kickers",
+  "type": "club",
+  "wyId": 7862
+}

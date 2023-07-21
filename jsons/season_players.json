@@ -1,0 +1,259 @@
+{
+  "players": [
+    {
+      "birthArea": {
+        "alpha2code": "SE",
+        "alpha3code": "SWE",
+        "id": 752,
+        "name": "Sweden"
+      },
+      "birthDate": "1988-12-19",
+      "currentTeam": {
+        "area": {
+          "alpha2code": "SE",
+          "alpha3code": "SWE",
+          "id": 752,
+          "name": "Sweden"
+        },
+        "category": "default",
+        "city": "Landvetter",
+        "gender": "female",
+        "gsmId": 4432,
+        "name": "Göteborg FC",
+        "officialName": "Kopparbergs / Göteborg FC",
+        "type": "club",
+        "wyId": 6805
+      },
+      "currentTeamId": 6805,
+      "firstName": "Emma Sofia",
+      "foot": "right",
+      "gender": "female",
+      "gsmId": 5996,
+      "height": 172,
+      "lastName": "Berglund",
+      "middleName": "",
+      "passportArea": {
+        "alpha2code": "SE",
+        "alpha3code": "SWE",
+        "id": 752,
+        "name": "Sweden"
+      },
+      "role": {
+        "code2": "DF",
+        "code3": "DEF",
+        "name": "Defender"
+      },
+      "shortName": "E. Berglund",
+      "status": "active",
+      "weight": 0,
+      "wyId": 52036
+    },
+    {
+      "birthArea": {
+        "alpha2code": "SE",
+        "alpha3code": "SWE",
+        "id": 752,
+        "name": "Sweden"
+      },
+      "birthDate": "1987-02-06",
+      "currentTeam": {
+        "area": {
+          "alpha2code": "SE",
+          "alpha3code": "SWE",
+          "id": 752,
+          "name": "Sweden"
+        },
+        "category": "default",
+        "children": [
+          {
+            "name": "Sunnanå",
+            "wyId": 6811
+          }
+        ],
+        "city": "Umeå",
+        "gender": "female",
+        "gsmId": 4439,
+        "name": "Umeå",
+        "officialName": "Umeå IK",
+        "type": "club",
+        "wyId": 6812
+      },
+      "currentTeamId": 6812,
+      "firstName": "Lisa Karolina Viktoria",
+      "foot": "right",
+      "gender": "female",
+      "gsmId": 5997,
+      "height": 173,
+      "lastName": "Dahlkvist",
+      "middleName": "",
+      "passportArea": {
+        "alpha2code": "SE",
+        "alpha3code": "SWE",
+        "id": 752,
+        "name": "Sweden"
+      },
+      "role": {
+        "code2": "MD",
+        "code3": "MID",
+        "name": "Midfielder"
+      },
+      "shortName": "L. Dahlkvist",
+      "status": "active",
+      "weight": 0,
+      "wyId": 52979
+    },
+    {
+      "birthArea": {
+        "alpha2code": "NO",
+        "alpha3code": "NOR",
+        "id": 578,
+        "name": "Norway"
+      },
+      "birthDate": "1985-04-03",
+      "currentTeam": {
+        "area": {
+          "alpha2code": "SE",
+          "alpha3code": "SWE",
+          "id": 752,
+          "name": "Sweden"
+        },
+        "category": "default",
+        "city": "Stockholm",
+        "gender": "female",
+        "gsmId": 4430,
+        "name": "Hammarby",
+        "officialName": "Hammarby IF DFF",
+        "type": "club",
+        "wyId": 6803
+      },
+      "currentTeamId": 6803,
+      "firstName": "June",
+      "gender": "female",
+      "gsmId": 6002,
+      "height": 0,
+      "lastName": "Pedersen",
+      "middleName": "",
+      "passportArea": {
+        "alpha2code": "NO",
+        "alpha3code": "NOR",
+        "id": 578,
+        "name": "Norway"
+      },
+      "role": {
+        "code2": "DF",
+        "code3": "DEF",
+        "name": "Defender"
+      },
+      "shortName": "J. Pedersen",
+      "status": "active",
+      "weight": 0,
+      "wyId": 52841
+    },
+    {
+      "birthArea": {
+        "alpha2code": "CH",
+        "alpha3code": "CHE",
+        "id": 756,
+        "name": "Switzerland"
+      },
+      "birthDate": "1990-12-25",
+      "currentNationalTeamId": 6698,
+      "currentTeam": {
+        "area": {
+          "alpha2code": "FR",
+          "alpha3code": "FRA",
+          "id": 250,
+          "name": "France"
+        },
+        "category": "default",
+        "city": "Paris",
+        "gender": "female",
+        "gsmId": 5286,
+        "name": "PSG",
+        "officialName": "Paris Saint Germain FC",
+        "type": "club",
+        "wyId": 3888
+      },
+      "currentTeamId": 3888,
+      "firstName": "Ramona",
+      "foot": "right",
+      "gender": "female",
+      "gsmId": 6005,
+      "height": 162,
+      "lastName": "Bachmann",
+      "middleName": "",
+      "passportArea": {
+        "alpha2code": "CH",
+        "alpha3code": "CHE",
+        "id": 756,
+        "name": "Switzerland"
+      },
+      "role": {
+        "code2": "FW",
+        "code3": "FWD",
+        "name": "Forward"
+      },
+      "shortName": "R. Bachmann",
+      "status": "active",
+      "weight": 0,
+      "wyId": 52122
+    },
+    {
+      "birthArea": {
+        "alpha2code": "BR",
+        "alpha3code": "BRA",
+        "id": 76,
+        "name": "Brazil"
+      },
+      "birthDate": "1986-02-19",
+      "currentNationalTeamId": 6381,
+      "currentTeam": {
+        "area": {
+          "alpha2code": "US",
+          "alpha3code": "USA",
+          "id": 840,
+          "name": "United States"
+        },
+        "category": "default",
+        "city": "Orlando, Florida",
+        "gender": "female",
+        "gsmId": 35889,
+        "name": "Orlando Pride",
+        "officialName": "Orlando Pride SC",
+        "type": "club",
+        "wyId": 37719
+      },
+      "currentTeamId": 37719,
+      "firstName": "Marta",
+      "gender": "female",
+      "gsmId": 6006,
+      "height": 163,
+      "lastName": "Vieira da Silva",
+      "middleName": "",
+      "passportArea": {
+        "alpha2code": "BR",
+        "alpha3code": "BRA",
+        "id": 76,
+        "name": "Brazil"
+      },
+      "role": {
+        "code2": "FW",
+        "code3": "FWD",
+        "name": "Forward"
+      },
+      "shortName": "Marta",
+      "status": "active",
+      "weight": 0,
+      "wyId": 60375
+    }
+  ],
+  "season": {
+    "active": false,
+    "competitionId": 10,
+    "endDate": "2016-12-31",
+    "gsmId": 12124,
+    "name": "2016",
+    "startDate": "2016-01-01",
+    "wyId": 10174
+  }
+}

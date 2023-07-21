@@ -1,0 +1,68 @@
+{
+  "birthArea": {
+    "alpha2code": "PL",
+    "alpha3code": "POL",
+    "id": 616,
+    "name": "Poland"
+  },
+  "birthDate": "1995-07-01",
+  "currentNationalTeamId": 13869,
+  "currentTeam": {
+    "area": {
+      "alpha2code": "DE",
+      "alpha3code": "DEU",
+      "id": 276,
+      "name": "Germany"
+    },
+    "category": "default",
+    "children": [
+      {
+        "name": "Hertha BSC U23",
+        "wyId": 63021
+      },
+      {
+        "name": "Hertha BSC U17",
+        "wyId": 32876
+      },
+      {
+        "name": "Hertha BSC II",
+        "wyId": 2589
+      },
+      {
+        "name": "Hertha BSC U19",
+        "wyId": 3130
+      }
+    ],
+    "city": "Berlin",
+    "gender": "male",
+    "gsmId": 974,
+    "name": "Hertha BSC",
+    "officialName": "Hertha BSC",
+    "type": "club",
+    "wyId": 2457
+  },
+  "currentTeamId": 2457,
+  "firstName": "Krzysztof",
+  "foot": "right",
+  "gender": "male",
+  "gsmId": 342295,
+  "height": 183,
+  "imageDataURL": "https://cdn5.wyscout.com/photos/players/public/g342295_100x130.png",
+  "lastName": "Piątek",
+  "middleName": "",
+  "passportArea": {
+    "alpha2code": "PL",
+    "alpha3code": "POL",
+    "id": 616,
+    "name": "Poland"
+  },
+  "role": {
+    "code2": "FW",
+    "code3": "FWD",
+    "name": "Forward"
+  },
+  "shortName": "K. Piątek",
+  "status": "active",
+  "weight": 77,
+  "wyId": 329061
+}

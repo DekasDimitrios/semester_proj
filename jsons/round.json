@@ -1,0 +1,35 @@
+{
+  "competition": {
+    "area": {
+      "alpha2code": "CO",
+      "alpha3code": "COL",
+      "id": 170,
+      "name": "Colombia"
+    },
+    "category": "default",
+    "divisionLevel": 1,
+    "format": "Domestic cup",
+    "gender": "male",
+    "gsmId": 613,
+    "name": "Copa Colombia",
+    "type": "club",
+    "wyId": 293
+  },
+  "competitionId": 293,
+  "endDate": "2020-11-30",
+  "gsmId": -5447,
+  "name": "Finals",
+  "season": {
+    "active": true,
+    "competitionId": 293,
+    "endDate": "2020-11-06",
+    "gsmId": -1812,
+    "name": "2020",
+    "startDate": "2020-02-13",
+    "wyId": 186471
+  },
+  "seasonId": 186471,
+  "startDate": "2020-11-01",
+  "type": "cup",
+  "wyId": 4421914
+}

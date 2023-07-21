@@ -1,0 +1,97 @@
+{
+  "season": {
+    "active": false,
+    "competitionId": 10,
+    "endDate": "2016-12-31",
+    "gsmId": 12124,
+    "name": "2016",
+    "startDate": "2016-01-01",
+    "wyId": 10174
+  },
+  "teams": [
+    {
+      "area": {
+        "alpha2code": "AT",
+        "alpha3code": "AUT",
+        "id": 40,
+        "name": "Austria"
+      },
+      "category": "default",
+      "city": "Wien",
+      "gender": "female",
+      "gsmId": 4099,
+      "name": "Austria",
+      "officialName": "Austria",
+      "type": "national",
+      "wyId": 9110
+    },
+    {
+      "area": {
+        "alpha2code": "BY",
+        "alpha3code": "BLR",
+        "id": 112,
+        "name": "Belarus"
+      },
+      "category": "default",
+      "children": [
+        {
+          "name": "Belarus U17",
+          "wyId": 10177
+        }
+      ],
+      "city": "Minsk",
+      "gender": "female",
+      "gsmId": 4100,
+      "name": "Belarus",
+      "officialName": "Belarus",
+      "type": "national",
+      "wyId": 10175
+    },
+    {
+      "area": {
+        "alpha2code": "BE",
+        "alpha3code": "BEL",
+        "id": 56,
+        "name": "Belgium"
+      },
+      "category": "default",
+      "children": [
+        {
+          "name": "Belgium U15",
+          "wyId": 62677
+        },
+        {
+          "name": "Belgium U19",
+          "wyId": 5634
+        },
+        {
+          "name": "Belgium U17",
+          "wyId": 5632
+        }
+      ],
+      "city": "Bruxelles (Brussel)",
+      "gender": "female",
+      "gsmId": 4101,
+      "name": "Belgium",
+      "officialName": "Belgium",
+      "type": "national",
+      "wyId": 5630
+    },
+    {
+      "area": {
+        "alpha2code": "BA",
+        "alpha3code": "BIH",
+        "id": 70,
+        "name": "Bosnia-Herzegovina"
+      },
+      "category": "default",
+      "city": "Sarajevo",
+      "gender": "female",
+      "gsmId": 4102,
+      "name": "Bosnia-Herzegovina",
+      "officialName": "Bosnia-Herzegovina",
+      "type": "national",
+      "wyId": 10002
+    }
+  ]
+}

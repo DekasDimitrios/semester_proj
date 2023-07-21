@@ -1,0 +1,26 @@
+{
+  "birthArea": {
+    "alpha2code": "IT",
+    "alpha3code": "ITA",
+    "id": 380,
+    "name": "Italy"
+  },
+  "birthDate": "1967-08-11",
+  "currentTeamId": 3159,
+  "firstName": "Massimiliano",
+  "gender": "male",
+  "gsmId": 110817,
+  "imageDataURL": "https://cdn5.wyscout.com/photos/players/public/g110817_100x130.png",
+  "lastName": "Allegri",
+  "middleName": "",
+  "passportArea": {
+    "alpha2code": "IT",
+    "alpha3code": "ITA",
+    "id": 380,
+    "name": "Italy"
+  },
+  "shortName": "M. Allegri",
+  "status": "active",
+  "type": "coach",
+  "wyId": 20386
+}

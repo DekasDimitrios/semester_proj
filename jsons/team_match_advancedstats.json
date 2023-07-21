@@ -1,0 +1,858 @@
+{
+  "average": {
+    "accelerations": 10.1,
+    "aerialDuels": 28.47,
+    "assists": 0.92,
+    "attackingActions": 71.63,
+    "backPasses": 28.47,
+    "ballLosses": 73.47,
+    "ballRecoveries": 54.18,
+    "concededGoals": 0.92,
+    "corners": 2.76,
+    "crosses": 13.78,
+    "dangerousOpponentHalfRecoveries": 5.51,
+    "dangerousOwnHalfLosses": 8.27,
+    "defensiveActions": 149.69,
+    "defensiveDuels": 78.06,
+    "defensiveDuelsWon": 8.27,
+    "directFreeKicks": 1.84,
+    "directFreeKicksOnTarget": 0.92,
+    "directRedCards": 0,
+    "dribbleDistanceFromOpponentGoal": 33.78,
+    "dribbles": 36.73,
+    "duels": 213.06,
+    "duelsWon": 79.9,
+    "fieldAerialDuels": 28.47,
+    "fieldAerialDuelsWon": 16.53,
+    "forwardPasses": 105.61,
+    "fouls": 15.61,
+    "freeKicks": 3.67,
+    "freeKicksOnTarget": 0.92,
+    "gkAerialDuels": 0,
+    "gkAerialDuelsWon": 0,
+    "gkExits": 0,
+    "gkGoalKicks": 13.78,
+    "gkGoalKicksSuccess": 12.86,
+    "gkSaves": 3.67,
+    "gkSuccessfulExits": 0,
+    "goals": 0.92,
+    "headShots": 0.92,
+    "interceptions": 43.16,
+    "keyPasses": 5.51,
+    "lateralPasses": 106.53,
+    "linkupPlays": 17.45,
+    "longGoalKicks": 7.35,
+    "longPassLength": 25.03,
+    "longPasses": 34.9,
+    "looseBallDuels": 39.49,
+    "looseBallDuelsWon": 16.53,
+    "missedBalls": 1.84,
+    "newDefensiveDuelsWon": 37.65,
+    "newDuelsWon": 103.78,
+    "newOffensiveDuelsWon": 33.06,
+    "newSuccessfulDribbles": 20.2,
+    "offensiveDuels": 67.04,
+    "offensiveDuelsWon": 38.57,
+    "offsides": 0.92,
+    "opponentHalfRecoveries": 14.69,
+    "opponentOffsides": 0.92,
+    "ownHalfLosses": 28.47,
+    "passLength": 20.08,
+    "passes": 299.39,
+    "passesToFinalThird": 35.82,
+    "penalties": 0,
+    "possessionPercent": 46.8,
+    "progressiveRun": 13.78,
+    "receivedPass": 200.2,
+    "redCards": 0,
+    "shortGoalKicks": 6.43,
+    "shotAssists": 8.27,
+    "shotOnTargetAssists": 5.51,
+    "shots": 12.86,
+    "shotsAgainst": 18.37,
+    "smartPasses": 8.27,
+    "successfulAttackingActions": 36.73,
+    "successfulBackPasses": 26.63,
+    "successfulCrosses": 4.59,
+    "successfulDefensiveAction": 97.35,
+    "successfulDribbles": 26.63,
+    "successfulForwardPasses": 83.57,
+    "successfulKeyPasses": 5.51,
+    "successfulLateralPasses": 90,
+    "successfulLinkupPlays": 11.94,
+    "successfulLongPasses": 22.04,
+    "successfulPasses": 255.31,
+    "successfulPassesToFinalThird": 25.71,
+    "successfulPenalties": 0,
+    "successfulSmartPasses": 3.67,
+    "successfulThroughPasses": 4.59,
+    "successfulVerticalPasses": 90,
+    "throughPasses": 9.18,
+    "touchInBox": 14.69,
+    "verticalPasses": 106.53,
+    "xgShot": 0.87,
+    "xgShotAgainst": 1,
+    "yellowCards": 2.76
+  },
+  "competition": {
+    "area": {
+      "alpha2code": "IT",
+      "alpha3code": "ITA",
+      "id": 380,
+      "name": "Italy"
+    },
+    "category": "default",
+    "divisionLevel": 1,
+    "format": "Domestic league",
+    "gender": "male",
+    "gsmId": 13,
+    "name": "Serie A",
+    "type": "club",
+    "wyId": 524
+  },
+  "competitionId": 524,
+  "match": {
+    "competitionId": 524,
+    "date": "August 2, 2020 at 8:45:00 PM GMT+2",
+    "dateutc": "2020-08-02 18:45:00",
+    "duration": "Regular",
+    "gameweek": 38,
+    "gsmId": -178889,
+    "hasDataAvailable": true,
+    "label": "Bologna - Torino, 1 - 1",
+    "referees": [
+      {
+        "refereeId": 396653,
+        "role": "referee"
+      },
+      {
+        "refereeId": 394731,
+        "role": "firstAssistant"
+      },
+      {
+        "refereeId": 458270,
+        "role": "secondAssistant"
+      },
+      {
+        "refereeId": 377271,
+        "role": "fourthOfficial"
+      },
+      {
+        "refereeId": 0,
+        "role": "firstAdditionalAssistant"
+      },
+      {
+        "refereeId": 0,
+        "role": "secondAdditionalAssistant"
+      }
+    ],
+    "roundId": 4420465,
+    "seasonId": 185844,
+    "status": "Played",
+    "teamsData": {
+      "3166": {
+        "coachId": 210120,
+        "formation": {
+          "bench": [
+            {
+              "assists": "0",
+              "goals": "0",
+              "ownGoals": "0",
+              "playerId": 20604,
+              "redCards": "0",
+              "shirtNumber": 1,
+              "yellowCards": "0"
+            },
+            {
+              "assists": "0",
+              "goals": "0",
+              "ownGoals": "0",
+              "playerId": 366296,
+              "redCards": "0",
+              "shirtNumber": 97,
+              "yellowCards": "0"
+            },
+            {
+              "assists": "0",
+              "goals": "0",
+              "ownGoals": "0",
+              "playerId": 373768,
+              "redCards": "0",
+              "shirtNumber": 7,
+              "yellowCards": "0"
+            },
+            {
+              "assists": "0",
+              "goals": "0",
+              "ownGoals": "0",
+              "playerId": 20529,
+              "redCards": "0",
+              "shirtNumber": 16,
+              "yellowCards": "0"
+            },
+            {
+              "assists": "0",
+              "goals": "0",
+              "ownGoals": "0",
+              "playerId": 536800,
+              "redCards": "0",
+              "shirtNumber": 29,
+              "yellowCards": "0"
+            },
+            {
+              "assists": "0",
+              "goals": "0",
+              "ownGoals": "0",
+              "playerId": 532549,
+              "redCards": "0",
+              "shirtNumber": 6,
+              "yellowCards": "0"
+            },
+            {
+              "assists": "0",
+              "goals": "0",
+              "ownGoals": "0",
+              "playerId": 496671,
+              "redCards": "0",
+              "shirtNumber": 25,
+              "yellowCards": "0"
+            },
+            {
+              "assists": "0",
+              "goals": "0",
+              "ownGoals": "0",
+              "playerId": 22578,
+              "redCards": "0",
+              "shirtNumber": 10,
+              "yellowCards": "0"
+            },
+            {
+              "assists": "0",
+              "goals": "0",
+              "ownGoals": "0",
+              "playerId": 86316,
+              "redCards": "0",
+              "shirtNumber": 9,
+              "yellowCards": "74"
+            },
+            {
+              "assists": "0",
+              "goals": "0",
+              "ownGoals": "0",
+              "playerId": 476177,
+              "redCards": "0",
+              "shirtNumber": 34,
+              "yellowCards": "0"
+            },
+            {
+              "assists": "0",
+              "goals": "0",
+              "ownGoals": "0",
+              "playerId": 512740,
+              "redCards": "0",
+              "shirtNumber": 17,
+              "yellowCards": "0"
+            },
+            {
+              "assists": "0",
+              "goals": "0",
+              "ownGoals": "0",
+              "playerId": 496214,
+              "redCards": "0",
+              "shirtNumber": 8,
+              "yellowCards": "0"
+            }
+          ],
+          "lineup": [
+            {
+              "assists": "0",
+              "goals": "0",
+              "ownGoals": "0",
+              "playerId": 21296,
+              "redCards": "0",
+              "shirtNumber": 24,
+              "yellowCards": "0"
+            },
+            {
+              "assists": "0",
+              "goals": "0",
+              "ownGoals": "0",
+              "playerId": 491409,
+              "redCards": "0",
+              "shirtNumber": 99,
+              "yellowCards": "0"
+            },
+            {
+              "assists": "0",
+              "goals": "1",
+              "ownGoals": "0",
+              "playerId": 347525,
+              "redCards": "0",
+              "shirtNumber": 32,
+              "yellowCards": "0"
+            },
+            {
+              "assists": "0",
+              "goals": "0",
+              "ownGoals": "0",
+              "playerId": 439889,
+              "redCards": "0",
+              "shirtNumber": 30,
+              "yellowCards": "0"
+            },
+            {
+              "assists": "0",
+              "goals": "0",
+              "ownGoals": "0",
+              "playerId": 556015,
+              "redCards": "0",
+              "shirtNumber": 26,
+              "yellowCards": "0"
+            },
+            {
+              "assists": "0",
+              "goals": "0",
+              "ownGoals": "0",
+              "playerId": 3473,
+              "redCards": "0",
+              "shirtNumber": 5,
+              "yellowCards": "83"
+            },
+            {
+              "assists": "0",
+              "goals": "0",
+              "ownGoals": "0",
+              "playerId": 20583,
+              "redCards": "0",
+              "shirtNumber": 23,
+              "yellowCards": "0"
+            },
+            {
+              "assists": "0",
+              "goals": "0",
+              "ownGoals": "0",
+              "playerId": 22377,
+              "redCards": "0",
+              "shirtNumber": 15,
+              "yellowCards": "0"
+            },
+            {
+              "assists": "1",
+              "goals": "0",
+              "ownGoals": "0",
+              "playerId": 20623,
+              "redCards": "0",
+              "shirtNumber": 21,
+              "yellowCards": "78"
+            },
+            {
+              "assists": "0",
+              "goals": "0",
+              "ownGoals": "0",
+              "playerId": 99430,
+              "redCards": "0",
+              "shirtNumber": 28,
+              "yellowCards": "0"
+            },
+            {
+              "assists": "0",
+              "goals": "0",
+              "ownGoals": "0",
+              "playerId": 39,
+              "redCards": "0",
+              "shirtNumber": 4,
+              "yellowCards": "0"
+            }
+          ],
+          "substitutions": [
+            {
+              "assists": "0",
+              "minute": 48,
+              "playerIn": 22578,
+              "playerOut": 21296
+            },
+            {
+              "assists": "0",
+              "minute": 48,
+              "playerIn": 86316,
+              "playerOut": 491409
+            },
+            {
+              "assists": "0",
+              "minute": 71,
+              "playerIn": 476177,
+              "playerOut": 347525
+            },
+            {
+              "assists": "0",
+              "minute": 71,
+              "playerIn": 496214,
+              "playerOut": 439889
+            },
+            {
+              "assists": "0",
+              "minute": 76,
+              "playerIn": 512740,
+              "playerOut": 556015
+            }
+          ]
+        },
+        "hasFormation": 1,
+        "score": 1,
+        "scoreET": 0,
+        "scoreHT": 1,
+        "scoreP": 0,
+        "side": "home",
+        "teamId": 3166
+      },
+      "3185": {
+        "coachId": 400257,
+        "formation": {
+          "bench": [
+            {
+              "assists": "0",
+              "goals": "0",
+              "ownGoals": "0",
+              "playerId": 25421,
+              "redCards": "0",
+              "shirtNumber": 39,
+              "yellowCards": "0"
+            },
+            {
+              "assists": "0",
+              "goals": "0",
+              "ownGoals": "0",
+              "playerId": 481140,
+              "redCards": "0",
+              "shirtNumber": 45,
+              "yellowCards": "0"
+            },
+            {
+              "assists": "0",
+              "goals": "0",
+              "ownGoals": "0",
+              "playerId": 501457,
+              "redCards": "0",
+              "shirtNumber": 27,
+              "yellowCards": "0"
+            },
+            {
+              "assists": "0",
+              "goals": "0",
+              "ownGoals": "0",
+              "playerId": 545358,
+              "redCards": "0",
+              "shirtNumber": 44,
+              "yellowCards": "0"
+            },
+            {
+              "assists": "0",
+              "goals": "0",
+              "ownGoals": "0",
+              "playerId": 551857,
+              "redCards": "0",
+              "shirtNumber": 56,
+              "yellowCards": "0"
+            },
+            {
+              "assists": "0",
+              "goals": "0",
+              "ownGoals": "0",
+              "playerId": 21547,
+              "redCards": "0",
+              "shirtNumber": 18,
+              "yellowCards": "0"
+            },
+            {
+              "assists": "0",
+              "goals": "0",
+              "ownGoals": "0",
+              "playerId": 536792,
+              "redCards": "0",
+              "shirtNumber": 19,
+              "yellowCards": "0"
+            },
+            {
+              "assists": "0",
+              "goals": "0",
+              "ownGoals": "0",
+              "playerId": 562846,
+              "redCards": "0",
+              "shirtNumber": 80,
+              "yellowCards": "0"
+            },
+            {
+              "assists": "0",
+              "goals": "0",
+              "ownGoals": "0",
+              "playerId": 354552,
+              "redCards": "0",
+              "shirtNumber": 20,
+              "yellowCards": "0"
+            },
+            {
+              "assists": "0",
+              "goals": "0",
+              "ownGoals": "0",
+              "playerId": 240378,
+              "redCards": "0",
+              "shirtNumber": 34,
+              "yellowCards": "0"
+            },
+            {
+              "assists": "0",
+              "goals": "0",
+              "ownGoals": "0",
+              "playerId": 25558,
+              "redCards": "0",
+              "shirtNumber": 33,
+              "yellowCards": "0"
+            },
+            {
+              "assists": "0",
+              "goals": "0",
+              "ownGoals": "0",
+              "playerId": 626316,
+              "redCards": "0",
+              "shirtNumber": 77,
+              "yellowCards": "0"
+            }
+          ],
+          "lineup": [
+            {
+              "assists": "0",
+              "goals": "0",
+              "ownGoals": "0",
+              "playerId": 101742,
+              "redCards": "0",
+              "shirtNumber": 15,
+              "yellowCards": "47"
+            },
+            {
+              "assists": "0",
+              "goals": "0",
+              "ownGoals": "0",
+              "playerId": 22883,
+              "redCards": "0",
+              "shirtNumber": 5,
+              "yellowCards": "0"
+            },
+            {
+              "assists": "0",
+              "goals": "0",
+              "ownGoals": "0",
+              "playerId": 475319,
+              "redCards": "0",
+              "shirtNumber": 36,
+              "yellowCards": "0"
+            },
+            {
+              "assists": "0",
+              "goals": "0",
+              "ownGoals": "0",
+              "playerId": 237269,
+              "redCards": "0",
+              "shirtNumber": 7,
+              "yellowCards": "0"
+            },
+            {
+              "assists": "0",
+              "goals": "0",
+              "ownGoals": "0",
+              "playerId": 21158,
+              "redCards": "0",
+              "shirtNumber": 25,
+              "yellowCards": "0"
+            },
+            {
+              "assists": "0",
+              "goals": "1",
+              "ownGoals": "0",
+              "playerId": 22202,
+              "redCards": "0",
+              "shirtNumber": 11,
+              "yellowCards": "0"
+            },
+            {
+              "assists": "0",
+              "goals": "0",
+              "ownGoals": "0",
+              "playerId": 21234,
+              "redCards": "0",
+              "shirtNumber": 9,
+              "yellowCards": "0"
+            },
+            {
+              "assists": "1",
+              "goals": "0",
+              "ownGoals": "0",
+              "playerId": 21123,
+              "redCards": "0",
+              "shirtNumber": 24,
+              "yellowCards": "0"
+            },
+            {
+              "assists": "0",
+              "goals": "0",
+              "ownGoals": "0",
+              "playerId": 339791,
+              "redCards": "0",
+              "shirtNumber": 21,
+              "yellowCards": "60"
+            },
+            {
+              "assists": "0",
+              "goals": "0",
+              "ownGoals": "0",
+              "playerId": 14903,
+              "redCards": "0",
+              "shirtNumber": 88,
+              "yellowCards": "56"
+            },
+            {
+              "assists": "0",
+              "goals": "0",
+              "ownGoals": "0",
+              "playerId": 25523,
+              "redCards": "0",
+              "shirtNumber": 30,
+              "yellowCards": "0"
+            }
+          ],
+          "substitutions": [
+            {
+              "assists": "0",
+              "minute": 50,
+              "playerIn": 240378,
+              "playerOut": 101742
+            },
+            {
+              "assists": "0",
+              "minute": 76,
+              "playerIn": 25558,
+              "playerOut": 22883
+            },
+            {
+              "assists": "0",
+              "minute": 92,
+              "playerIn": 626316,
+              "playerOut": 25523
+            }
+          ]
+        },
+        "hasFormation": 1,
+        "score": 1,
+        "scoreET": 0,
+        "scoreHT": 0,
+        "scoreP": 0,
+        "side": "away",
+        "teamId": 3185
+      }
+    },
+    "winner": 0,
+    "wyId": 2852835
+  },
+  "matchId": 2852835,
+  "percent": {
+    "aerialDuelsWon": 58.06,
+    "defensiveDuelsWon": 10.59,
+    "directFreeKicksOnTarget": 50,
+    "duelsWon": 37.5,
+    "fieldAerialDuelsWon": 58.06,
+    "gkAerialDuelsWon": 0,
+    "gkSaves": 0,
+    "gkSuccessfulExits": 0,
+    "goalConversion": 7.143,
+    "headShotsOnTarget": 100,
+    "newDefensiveDuelsWon": 48.24,
+    "newDuelsWon": 48.71,
+    "newOffensiveDuelsWon": 49.32,
+    "newSuccessfulDribbles": 55,
+    "offensiveDuelsWon": 57.53,
+    "penaltiesConversion": 0,
+    "shotsOnTarget": 64.29,
+    "successfulBackPasses": 93.55,
+    "successfulCrosses": 33.33,
+    "successfulDribbles": 72.5,
+    "successfulForwardPasses": 79.13,
+    "successfulKeyPasses": 100,
+    "successfulLateralPasses": 84.48,
+    "successfulLinkupPlays": 68.42,
+    "successfulLongPasses": 63.16,
+    "successfulPasses": 85.28,
+    "successfulPassesToFinalThird": 71.79,
+    "successfulShotAssists": 77.78,
+    "successfulSmartPasses": 44.44,
+    "successfulThroughPasses": 50,
+    "successfulTouchInBox": 62.5,
+    "successfulVerticalPasses": 84.48,
+    "win": 0,
+    "yellowCardsPerFoul": 17.647
+  },
+  "round": {
+    "competitionId": 524,
+    "endDate": "2020-08-02",
+    "gsmId": -4058,
+    "name": "Regular Season",
+    "seasonId": 185844,
+    "startDate": "2019-08-25",
+    "type": "table",
+    "wyId": 4420465
+  },
+  "roundId": 4420465,
+  "season": {
+    "active": false,
+    "competitionId": 524,
+    "endDate": "2020-08-02",
+    "gsmId": -1185,
+    "name": "2019/2020",
+    "startDate": "2019-08-25",
+    "wyId": 185844
+  },
+  "seasonId": 185844,
+  "team": {
+    "area": {
+      "alpha2code": "IT",
+      "alpha3code": "ITA",
+      "id": 380,
+      "name": "Italy"
+    },
+    "category": "default",
+    "children": [
+      {
+        "name": "Torino U14",
+        "wyId": 65179
+      },
+      {
+        "name": "Torino U18",
+        "wyId": 62760
+      },
+      {
+        "name": "Torino U16 A&B",
+        "wyId": 34380
+      },
+      {
+        "name": "Torino U15 A&B",
+        "wyId": 21673
+      },
+      {
+        "name": "Torino U17 A&B",
+        "wyId": 20594
+      },
+      {
+        "name": "Torino U19",
+        "wyId": 3713
+      },
+      {
+        "name": "Torino U19 Berretti",
+        "wyId": 24050
+      }
+    ],
+    "city": "Torino",
+    "gender": "male",
+    "gsmId": 1268,
+    "name": "Torino",
+    "officialName": "Torino FC",
+    "type": "club",
+    "wyId": 3185
+  },
+  "teamId": 3185,
+  "total": {
+    "accelerations": 11,
+    "aerialDuels": 31,
+    "aerialDuelsWon": 18,
+    "assists": 1,
+    "attackingActions": 78,
+    "backPasses": 31,
+    "cleanSheets": 0,
+    "concededGoals": 1,
+    "corners": 3,
+    "crosses": 15,
+    "dangerousOpponentHalfRecoveries": 6,
+    "dangerousOwnHalfLosses": 9,
+    "defensiveActions": 163,
+    "defensiveDuels": 85,
+    "defensiveDuelsWon": 9,
+    "directFreeKicks": 2,
+    "directFreeKicksOnTarget": 1,
+    "directRedCards": 0,
+    "dribbles": 40,
+    "duels": 232,
+    "duelsWon": 87,
+    "fieldAerialDuels": 31,
+    "fieldAerialDuelsWon": 18,
+    "forwardPasses": 115,
+    "fouls": 17,
+    "freeKicks": 4,
+    "freeKicksOnTarget": 1,
+    "gkAerialDuels": 0,
+    "gkAerialDuelsWon": 0,
+    "gkExits": 0,
+    "gkGoalKicks": 15,
+    "gkGoalKicksSuccess": 14,
+    "gkSaves": 4,
+    "gkSuccessfulExits": 0,
+    "goals": 1,
+    "headShots": 1,
+    "interceptions": 47,
+    "keyPasses": 6,
+    "lateralPasses": 116,
+    "linkupPlays": 19,
+    "longGoalKicks": 8,
+    "longPasses": 38,
+    "looseBallDuels": 43,
+    "looseBallDuelsWon": 18,
+    "losses": 80,
+    "matches": 1,
+    "matchesTagged": 1,
+    "missedBalls": 2,
+    "newDefensiveDuelsWon": 41,
+    "newDuelsWon": 113,
+    "newOffensiveDuelsWon": 36,
+    "newSuccessfulDribbles": 22,
+    "offensiveDuels": 73,
+    "offensiveDuelsWon": 42,
+    "offsides": 1,
+    "opponentHalfRecoveries": 16,
+    "opponentOffsides": 1,
+    "ownHalfLosses": 31,
+    "passes": 326,
+    "passesToFinalThird": 39,
+    "penalties": 0,
+    "ppda": 9.76,
+    "pressingDuels": 35,
+    "pressingDuelsWon": 0,
+    "progressiveRun": 15,
+    "receivedPass": 218,
+    "recoveries": 59,
+    "redCards": 0,
+    "shortGoalKicks": 7,
+    "shotAssists": 9,
+    "shotOnTargetAssists": 6,
+    "shots": 14,
+    "shotsAgainst": 20,
+    "smartPasses": 9,
+    "successfulAttackingActions": 40,
+    "successfulBackPasses": 29,
+    "successfulCrosses": 5,
+    "successfulDefensiveActions": 106,
+    "successfulDribbles": 29,
+    "successfulForwardPasses": 91,
+    "successfulKeyPasses": 6,
+    "successfulLateralPasses": 98,
+    "successfulLinkupPlays": 13,
+    "successfulLongPasses": 24,
+    "successfulPasses": 278,
+    "successfulPassesToFinalThird": 28,
+    "successfulPenalties": 0,
+    "successfulSmartPasses": 4,
+    "successfulThroughPasses": 5,
+    "successfulVerticalPasses": 98,
+    "throughPasses": 10,
+    "touchInBox": 16,
+    "verticalPasses": 116,
+    "xgShot": 0.95,
+    "xgShotAgainst": 1.09,
+    "yellowCards": 3
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "career": [
+    {
+      "appearances": 0,
+      "competition": {
+        "area": {
+          "alpha2code": "JO",
+          "alpha3code": "JOR",
+          "id": 400,
+          "name": "Jordan"
+        },
+        "category": "default",
+        "divisionLevel": 0,
+        "format": "Domestic league",
+        "gender": "male",
+        "gsmId": 1195,
+        "name": "1st Division",
+        "type": "club",
+        "wyId": 1495
+      },
+      "competitionId": 0,
+      "goal": 0,
+      "minutesPlayed": 0,
+      "penalties": 0,
+      "playerId": 0,
+      "redCards": 0,
+      "season": {
+        "active": true,
+        "competition": {
+          "area": {
+            "alpha2code": "WO",
+            "alpha3code": "XWO",
+            "id": 1420,
+            "name": "World"
+          },
+          "category": "default",
+          "divisionLevel": 0,
+          "format": "International cup",
+          "gender": "female",
+          "gsmId": 1633,
+          "name": "Yongchuan Tournament",
+          "type": "international",
+          "wyId": 43037
+        },
+        "competitionId": 43037,
+        "endDate": "2019-11-17",
+        "gsmId": -2095,
+        "name": "2019",
+        "startDate": "2019-11-07",
+        "wyId": 186754
+      },
+      "seasonId": 0,
+      "shirtNumber": 0,
+      "substituteIn": 0,
+      "substituteOnBench": 0,
+      "substituteOut": 0,
+      "team": {
+        "area": {
+          "alpha2code": "US",
+          "alpha3code": "USA",
+          "id": 840,
+          "name": "United States"
+        },
+        "category": "default",
+        "children": [
+          {
+            "name": "Richmond United U15/16",
+            "wyId": 59333
+          },
+          {
+            "name": "Richmond United U17/18",
+            "wyId": 59421
+          },
+          {
+            "name": "Richmond United U18/19",
+            "wyId": 61155
+          },
+          {
+            "name": "Richmond United U16/17",
+            "wyId": 61231
+          }
+        ],
+        "city": "Richmond, Virginia",
+        "gender": "male",
+        "imageDataURL": "https://cdn5.wyscout.com/photos/team/public/g3196_120x120.png",
+        "name": "Richmond Kickers",
+        "officialName": "Richmond Kickers",
+        "type": "club",
+        "wyId": 7862
+      },
+      "teamId": 0,
+      "yellowCard": 0
+    }
+  ],
+  "player": {
+    "birthArea": {
+      "alpha2code": "PL",
+      "alpha3code": "POL",
+      "id": 616,
+      "name": "Poland"
+    },
+    "birthDate": "1995-07-01",
+    "currentNationalTeamId": 13869,
+    "currentTeam": {
+      "area": {
+        "alpha2code": "DE",
+        "alpha3code": "DEU",
+        "id": 276,
+        "name": "Germany"
+      },
+      "category": "default",
+      "children": [
+        {
+          "name": "Hertha BSC U23",
+          "wyId": 63021
+        },
+        {
+          "name": "Hertha BSC U17",
+          "wyId": 32876
+        },
+        {
+          "name": "Hertha BSC II",
+          "wyId": 2589
+        },
+        {
+          "name": "Hertha BSC U19",
+          "wyId": 3130
+        }
+      ],
+      "city": "Berlin",
+      "gender": "male",
+      "gsmId": 974,
+      "name": "Hertha BSC",
+      "officialName": "Hertha BSC",
+      "type": "club",
+      "wyId": 2457
+    },
+    "currentTeamId": 2457,
+    "firstName": "Krzysztof",
+    "foot": "right",
+    "gender": "male",
+    "gsmId": 342295,
+    "height": 183,
+    "imageDataURL": "https://cdn5.wyscout.com/photos/players/public/g342295_100x130.png",
+    "lastName": "Piątek",
+    "middleName": "",
+    "passportArea": {
+      "alpha2code": "PL",
+      "alpha3code": "POL",
+      "id": 616,
+      "name": "Poland"
+    },
+    "role": {
+      "code2": "FW",
+      "code3": "FWD",
+      "name": "Forward"
+    },
+    "shortName": "K. Piątek",
+    "status": "active",
+    "weight": 77,
+    "wyId": 329061
+  }
+}

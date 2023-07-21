@@ -1,0 +1,2135 @@
+{
+  "transfer": [
+    {
+      "active": 0,
+      "announceDate": "",
+      "currency": "EUR",
+      "endDate": "0000-00-00",
+      "fromTeamId": 3157,
+      "fromTeamName": "Milan",
+      "player": {
+        "birthArea": {
+          "alpha2code": "IT",
+          "alpha3code": "ITA",
+          "id": 380,
+          "name": "Italy"
+        },
+        "birthDate": "1998-01-08",
+        "currentNationalTeamId": 3757,
+        "currentTeamId": 3315,
+        "firstName": "Manuel",
+        "foot": "right",
+        "gender": "male",
+        "gsmId": 319840,
+        "height": 180,
+        "lastName": "Locatelli",
+        "middleName": "",
+        "passportArea": {
+          "alpha2code": "IT",
+          "alpha3code": "ITA",
+          "id": 380,
+          "name": "Italy"
+        },
+        "role": {
+          "code2": "MD",
+          "code3": "MID",
+          "name": "Midfielder"
+        },
+        "shortName": "M. Locatelli",
+        "status": "active",
+        "weight": 70,
+        "wyId": 286226
+      },
+      "playerId": 286226,
+      "startDate": "2019-07-01",
+      "teamsData": {
+        "fromTeam": {
+          "team": {
+            "area": {
+              "alpha2code": "IT",
+              "alpha3code": "ITA",
+              "id": 380,
+              "name": "Italy"
+            },
+            "category": "default",
+            "children": [
+              {
+                "name": "Milan U14",
+                "wyId": 65162
+              },
+              {
+                "name": "Milan U18",
+                "wyId": 65150
+              },
+              {
+                "name": "Milan U17 A&B",
+                "wyId": 20476
+              },
+              {
+                "name": "Milan U15",
+                "wyId": 20475
+              },
+              {
+                "name": "Milan U19",
+                "wyId": 26542
+              },
+              {
+                "name": "Milan U16 A&B",
+                "wyId": 28066
+              }
+            ],
+            "city": "Milano",
+            "gender": "male",
+            "gsmId": 1240,
+            "name": "Milan",
+            "officialName": "AC Milan",
+            "type": "club",
+            "wyId": 3157
+          }
+        },
+        "toTeam": {
+          "team": {
+            "area": {
+              "alpha2code": "IT",
+              "alpha3code": "ITA",
+              "id": 380,
+              "name": "Italy"
+            },
+            "category": "default",
+            "children": [
+              {
+                "name": "Sassuolo U14",
+                "wyId": 65582
+              },
+              {
+                "name": "Sassuolo U18",
+                "wyId": 65152
+              },
+              {
+                "name": "Sassuolo U15 A&B",
+                "wyId": 58212
+              },
+              {
+                "name": "Sassuolo U16 A&B",
+                "wyId": 36101
+              },
+              {
+                "name": "Sassuolo U17 A&B",
+                "wyId": 21299
+              },
+              {
+                "name": "Sassuolo U19",
+                "wyId": 3711
+              }
+            ],
+            "city": "Sassuolo",
+            "gender": "male",
+            "gsmId": 5681,
+            "name": "Sassuolo",
+            "officialName": "US Sassuolo Calcio",
+            "type": "club",
+            "wyId": 3315
+          }
+        }
+      },
+      "toTeamId": 3315,
+      "toTeamName": "Sassuolo",
+      "type": "Transfer",
+      "value": 0
+    },
+    {
+      "active": 0,
+      "announceDate": "",
+      "currency": "EUR",
+      "endDate": "0000-00-00",
+      "fromTeamId": 3157,
+      "fromTeamName": "Milan",
+      "player": {
+        "birthArea": {
+          "alpha2code": "CO",
+          "alpha3code": "COL",
+          "id": 170,
+          "name": "Colombia"
+        },
+        "birthDate": "1986-09-30",
+        "currentNationalTeamId": 12430,
+        "currentTeamId": 3193,
+        "firstName": "Cristian Eduardo",
+        "foot": "right",
+        "gender": "male",
+        "gsmId": 4102,
+        "height": 187,
+        "lastName": "Zapata Valencia",
+        "middleName": "",
+        "passportArea": {
+          "alpha2code": "CO",
+          "alpha3code": "COL",
+          "id": 170,
+          "name": "Colombia"
+        },
+        "role": {
+          "code2": "DF",
+          "code3": "DEF",
+          "name": "Defender"
+        },
+        "shortName": "C. Zapata",
+        "status": "active",
+        "weight": 82,
+        "wyId": 3531
+      },
+      "playerId": 3531,
+      "startDate": "2019-07-01",
+      "teamsData": {
+        "fromTeam": {
+          "team": {
+            "area": {
+              "alpha2code": "IT",
+              "alpha3code": "ITA",
+              "id": 380,
+              "name": "Italy"
+            },
+            "category": "default",
+            "children": [
+              {
+                "name": "Milan U14",
+                "wyId": 65162
+              },
+              {
+                "name": "Milan U18",
+                "wyId": 65150
+              },
+              {
+                "name": "Milan U17 A&B",
+                "wyId": 20476
+              },
+              {
+                "name": "Milan U15",
+                "wyId": 20475
+              },
+              {
+                "name": "Milan U19",
+                "wyId": 26542
+              },
+              {
+                "name": "Milan U16 A&B",
+                "wyId": 28066
+              }
+            ],
+            "city": "Milano",
+            "gender": "male",
+            "gsmId": 1240,
+            "name": "Milan",
+            "officialName": "AC Milan",
+            "type": "club",
+            "wyId": 3157
+          }
+        },
+        "toTeam": {
+          "team": {
+            "area": {
+              "alpha2code": "IT",
+              "alpha3code": "ITA",
+              "id": 380,
+              "name": "Italy"
+            },
+            "category": "default",
+            "children": [
+              {
+                "name": "Genoa U14",
+                "wyId": 65550
+              },
+              {
+                "name": "Genoa U18",
+                "wyId": 65357
+              },
+              {
+                "name": "Genoa U16 A&B",
+                "wyId": 36482
+              },
+              {
+                "name": "Genoa U17 A&B",
+                "wyId": 23833
+              },
+              {
+                "name": "Genoa U15",
+                "wyId": 20432
+              },
+              {
+                "name": "Genoa U19",
+                "wyId": 3703
+              }
+            ],
+            "city": "Genova",
+            "gender": "male",
+            "gsmId": 1276,
+            "name": "Genoa",
+            "officialName": "Genoa CFC",
+            "type": "club",
+            "wyId": 3193
+          }
+        }
+      },
+      "toTeamId": 3193,
+      "toTeamName": "Genoa",
+      "type": "Transfer",
+      "value": 0
+    },
+    {
+      "active": 0,
+      "announceDate": "",
+      "currency": "EUR",
+      "endDate": "0000-00-00",
+      "fromTeamId": 3157,
+      "fromTeamName": "Milan",
+      "player": {
+        "birthArea": {
+          "alpha2code": "IT",
+          "alpha3code": "ITA",
+          "id": 380,
+          "name": "Italy"
+        },
+        "birthDate": "1985-01-18",
+        "firstName": "Riccardo",
+        "foot": "right",
+        "gender": "male",
+        "gsmId": 4040,
+        "height": 182,
+        "lastName": "Montolivo",
+        "middleName": "",
+        "passportArea": {
+          "alpha2code": "DE",
+          "alpha3code": "DEU",
+          "id": 276,
+          "name": "Germany"
+        },
+        "role": {
+          "code2": "MD",
+          "code3": "MID",
+          "name": "Midfielder"
+        },
+        "shortName": "R. Montolivo",
+        "status": "retired",
+        "weight": 79,
+        "wyId": 20943
+      },
+      "playerId": 20943,
+      "startDate": "2019-07-01",
+      "teamsData": {
+        "fromTeam": {
+          "team": {
+            "area": {
+              "alpha2code": "IT",
+              "alpha3code": "ITA",
+              "id": 380,
+              "name": "Italy"
+            },
+            "category": "default",
+            "children": [
+              {
+                "name": "Milan U14",
+                "wyId": 65162
+              },
+              {
+                "name": "Milan U18",
+                "wyId": 65150
+              },
+              {
+                "name": "Milan U17 A&B",
+                "wyId": 20476
+              },
+              {
+                "name": "Milan U15",
+                "wyId": 20475
+              },
+              {
+                "name": "Milan U19",
+                "wyId": 26542
+              },
+              {
+                "name": "Milan U16 A&B",
+                "wyId": 28066
+              }
+            ],
+            "city": "Milano",
+            "gender": "male",
+            "gsmId": 1240,
+            "name": "Milan",
+            "officialName": "AC Milan",
+            "type": "club",
+            "wyId": 3157
+          }
+        },
+        "toTeam": {}
+      },
+      "toTeamId": 0,
+      "toTeamName": "",
+      "type": "Free Agent",
+      "value": 0
+    },
+    {
+      "active": 0,
+      "announceDate": "",
+      "currency": "EUR",
+      "endDate": "0000-00-00",
+      "fromTeamId": 3157,
+      "fromTeamName": "Milan",
+      "player": {
+        "birthArea": {
+          "alpha2code": "IT",
+          "alpha3code": "ITA",
+          "id": 380,
+          "name": "Italy"
+        },
+        "birthDate": "1986-11-12",
+        "firstName": "Ignazio",
+        "foot": "right",
+        "gender": "male",
+        "gsmId": 17950,
+        "height": 180,
+        "lastName": "Abate",
+        "middleName": "",
+        "passportArea": {
+          "alpha2code": "IT",
+          "alpha3code": "ITA",
+          "id": 380,
+          "name": "Italy"
+        },
+        "role": {
+          "code2": "DF",
+          "code3": "DEF",
+          "name": "Defender"
+        },
+        "shortName": "I. Abate",
+        "status": "active",
+        "weight": 73,
+        "wyId": 20390
+      },
+      "playerId": 20390,
+      "startDate": "2019-07-01",
+      "teamsData": {
+        "fromTeam": {
+          "team": {
+            "area": {
+              "alpha2code": "IT",
+              "alpha3code": "ITA",
+              "id": 380,
+              "name": "Italy"
+            },
+            "category": "default",
+            "children": [
+              {
+                "name": "Milan U14",
+                "wyId": 65162
+              },
+              {
+                "name": "Milan U18",
+                "wyId": 65150
+              },
+              {
+                "name": "Milan U17 A&B",
+                "wyId": 20476
+              },
+              {
+                "name": "Milan U15",
+                "wyId": 20475
+              },
+              {
+                "name": "Milan U19",
+                "wyId": 26542
+              },
+              {
+                "name": "Milan U16 A&B",
+                "wyId": 28066
+              }
+            ],
+            "city": "Milano",
+            "gender": "male",
+            "gsmId": 1240,
+            "name": "Milan",
+            "officialName": "AC Milan",
+            "type": "club",
+            "wyId": 3157
+          }
+        },
+        "toTeam": {}
+      },
+      "toTeamId": 0,
+      "toTeamName": "",
+      "type": "Free Agent",
+      "value": 0
+    },
+    {
+      "active": 0,
+      "announceDate": "",
+      "currency": "EUR",
+      "endDate": "2019-10-08",
+      "fromTeamId": 3157,
+      "fromTeamName": "Milan",
+      "player": {
+        "birthArea": {
+          "alpha2code": "IT",
+          "alpha3code": "ITA",
+          "id": 380,
+          "name": "Italy"
+        },
+        "birthDate": "1991-01-11",
+        "firstName": "Andrea",
+        "foot": "left",
+        "gender": "male",
+        "gsmId": 119992,
+        "height": 179,
+        "lastName": "Bertolacci",
+        "middleName": "",
+        "passportArea": {
+          "alpha2code": "IT",
+          "alpha3code": "ITA",
+          "id": 380,
+          "name": "Italy"
+        },
+        "role": {
+          "code2": "MD",
+          "code3": "MID",
+          "name": "Midfielder"
+        },
+        "shortName": "A. Bertolacci",
+        "status": "active",
+        "weight": 75,
+        "wyId": 20749
+      },
+      "playerId": 20749,
+      "startDate": "2019-07-01",
+      "teamsData": {
+        "fromTeam": {
+          "team": {
+            "area": {
+              "alpha2code": "IT",
+              "alpha3code": "ITA",
+              "id": 380,
+              "name": "Italy"
+            },
+            "category": "default",
+            "children": [
+              {
+                "name": "Milan U14",
+                "wyId": 65162
+              },
+              {
+                "name": "Milan U18",
+                "wyId": 65150
+              },
+              {
+                "name": "Milan U17 A&B",
+                "wyId": 20476
+              },
+              {
+                "name": "Milan U15",
+                "wyId": 20475
+              },
+              {
+                "name": "Milan U19",
+                "wyId": 26542
+              },
+              {
+                "name": "Milan U16 A&B",
+                "wyId": 28066
+              }
+            ],
+            "city": "Milano",
+            "gender": "male",
+            "gsmId": 1240,
+            "name": "Milan",
+            "officialName": "AC Milan",
+            "type": "club",
+            "wyId": 3157
+          }
+        },
+        "toTeam": {}
+      },
+      "toTeamId": 0,
+      "toTeamName": "",
+      "type": "Free Agent",
+      "value": 0
+    },
+    {
+      "active": 0,
+      "announceDate": "",
+      "currency": "EUR",
+      "endDate": "0000-00-00",
+      "fromTeamId": 3157,
+      "fromTeamName": "Milan",
+      "player": {
+        "birthArea": {
+          "alpha2code": "HR",
+          "alpha3code": "HRV",
+          "id": 191,
+          "name": "Croatia"
+        },
+        "birthDate": "1995-01-20",
+        "currentTeamId": 9416,
+        "firstName": "Stefan",
+        "foot": "right",
+        "gender": "male",
+        "gsmId": 214327,
+        "height": 189,
+        "lastName": "Simič",
+        "middleName": "",
+        "passportArea": {
+          "alpha2code": "HR",
+          "alpha3code": "HRV",
+          "id": 191,
+          "name": "Croatia"
+        },
+        "role": {
+          "code2": "DF",
+          "code3": "DEF",
+          "name": "Defender"
+        },
+        "shortName": "S. Simič",
+        "status": "active",
+        "weight": 79,
+        "wyId": 137048
+      },
+      "playerId": 137048,
+      "startDate": "2019-07-01",
+      "teamsData": {
+        "fromTeam": {
+          "team": {
+            "area": {
+              "alpha2code": "IT",
+              "alpha3code": "ITA",
+              "id": 380,
+              "name": "Italy"
+            },
+            "category": "default",
+            "children": [
+              {
+                "name": "Milan U14",
+                "wyId": 65162
+              },
+              {
+                "name": "Milan U18",
+                "wyId": 65150
+              },
+              {
+                "name": "Milan U17 A&B",
+                "wyId": 20476
+              },
+              {
+                "name": "Milan U15",
+                "wyId": 20475
+              },
+              {
+                "name": "Milan U19",
+                "wyId": 26542
+              },
+              {
+                "name": "Milan U16 A&B",
+                "wyId": 28066
+              }
+            ],
+            "city": "Milano",
+            "gender": "male",
+            "gsmId": 1240,
+            "name": "Milan",
+            "officialName": "AC Milan",
+            "type": "club",
+            "wyId": 3157
+          }
+        },
+        "toTeam": {
+          "team": {
+            "area": {
+              "alpha2code": "HR",
+              "alpha3code": "HRV",
+              "id": 191,
+              "name": "Croatia"
+            },
+            "category": "default",
+            "children": [
+              {
+                "name": "Hajduk Split U19",
+                "wyId": 24146
+              },
+              {
+                "name": "Hajduk Split U17",
+                "wyId": 30266
+              },
+              {
+                "name": "Hajduk Split II",
+                "wyId": 31532
+              }
+            ],
+            "city": "Split",
+            "gender": "male",
+            "gsmId": 478,
+            "name": "Hajduk Split",
+            "officialName": "HNK Hajduk Split",
+            "type": "club",
+            "wyId": 9416
+          }
+        }
+      },
+      "toTeamId": 9416,
+      "toTeamName": "Hajduk Split",
+      "type": "Transfer",
+      "value": 0
+    },
+    {
+      "active": 0,
+      "announceDate": "",
+      "currency": "EUR",
+      "endDate": "2020-08-31",
+      "fromTeamId": 3157,
+      "fromTeamName": "AC Milan",
+      "player": {
+        "birthArea": {
+          "alpha2code": "IT",
+          "alpha3code": "ITA",
+          "id": 380,
+          "name": "Italy"
+        },
+        "birthDate": "1999-07-15",
+        "currentNationalTeamId": 3763,
+        "currentTeamId": 3205,
+        "firstName": "Tommaso",
+        "foot": "left",
+        "gender": "male",
+        "gsmId": 458654,
+        "height": 188,
+        "lastName": "Pobega",
+        "middleName": "",
+        "passportArea": {
+          "alpha2code": "IT",
+          "alpha3code": "ITA",
+          "id": 380,
+          "name": "Italy"
+        },
+        "role": {
+          "code2": "MD",
+          "code3": "MID",
+          "name": "Midfielder"
+        },
+        "shortName": "T. Pobega",
+        "status": "active",
+        "weight": 75,
+        "wyId": 461665
+      },
+      "playerId": 461665,
+      "startDate": "2019-07-15",
+      "teamsData": {
+        "fromTeam": {
+          "team": {
+            "area": {
+              "alpha2code": "IT",
+              "alpha3code": "ITA",
+              "id": 380,
+              "name": "Italy"
+            },
+            "category": "default",
+            "children": [
+              {
+                "name": "Milan U14",
+                "wyId": 65162
+              },
+              {
+                "name": "Milan U18",
+                "wyId": 65150
+              },
+              {
+                "name": "Milan U17 A&B",
+                "wyId": 20476
+              },
+              {
+                "name": "Milan U15",
+                "wyId": 20475
+              },
+              {
+                "name": "Milan U19",
+                "wyId": 26542
+              },
+              {
+                "name": "Milan U16 A&B",
+                "wyId": 28066
+              }
+            ],
+            "city": "Milano",
+            "gender": "male",
+            "gsmId": 1240,
+            "name": "Milan",
+            "officialName": "AC Milan",
+            "type": "club",
+            "wyId": 3157
+          }
+        },
+        "toTeam": {
+          "team": {
+            "area": {
+              "alpha2code": "IT",
+              "alpha3code": "ITA",
+              "id": 380,
+              "name": "Italy"
+            },
+            "category": "default",
+            "children": [
+              {
+                "name": "Pordenone Calcio SSD U14",
+                "wyId": 65684
+              },
+              {
+                "name": "Pordenone U15",
+                "wyId": 65225
+              },
+              {
+                "name": "Pordenone U16",
+                "wyId": 64610
+              },
+              {
+                "name": "Pordenone U17 A&B",
+                "wyId": 62807
+              },
+              {
+                "name": "Pordenone U19",
+                "wyId": 31922
+              }
+            ],
+            "city": "Pordenone",
+            "gender": "male",
+            "gsmId": 12131,
+            "name": "Pordenone",
+            "officialName": "Pordenone Calcio SSD",
+            "type": "club",
+            "wyId": 3426
+          }
+        }
+      },
+      "toTeamId": 3426,
+      "toTeamName": "Pordenone Calcio SSD",
+      "type": "Loan",
+      "value": 0
+    },
+    {
+      "active": 0,
+      "announceDate": "",
+      "currency": "EUR",
+      "endDate": "0000-00-00",
+      "fromTeamId": 3157,
+      "fromTeamName": "Milan",
+      "player": {
+        "birthArea": {
+          "alpha2code": "IT",
+          "alpha3code": "ITA",
+          "id": 380,
+          "name": "Italy"
+        },
+        "birthDate": "1997-09-30",
+        "currentTeamId": 3191,
+        "firstName": "Gian Filippo",
+        "foot": "left",
+        "gender": "male",
+        "gsmId": 319946,
+        "height": 180,
+        "lastName": "Felicioli",
+        "middleName": "",
+        "passportArea": {
+          "alpha2code": "IT",
+          "alpha3code": "ITA",
+          "id": 380,
+          "name": "Italy"
+        },
+        "role": {
+          "code2": "DF",
+          "code3": "DEF",
+          "name": "Defender"
+        },
+        "shortName": "G. Felicioli",
+        "status": "active",
+        "weight": 77,
+        "wyId": 286225
+      },
+      "playerId": 286225,
+      "startDate": "2019-07-18",
+      "teamsData": {
+        "fromTeam": {
+          "team": {
+            "area": {
+              "alpha2code": "IT",
+              "alpha3code": "ITA",
+              "id": 380,
+              "name": "Italy"
+            },
+            "category": "default",
+            "children": [
+              {
+                "name": "Milan U14",
+                "wyId": 65162
+              },
+              {
+                "name": "Milan U18",
+                "wyId": 65150
+              },
+              {
+                "name": "Milan U17 A&B",
+                "wyId": 20476
+              },
+              {
+                "name": "Milan U15",
+                "wyId": 20475
+              },
+              {
+                "name": "Milan U19",
+                "wyId": 26542
+              },
+              {
+                "name": "Milan U16 A&B",
+                "wyId": 28066
+              }
+            ],
+            "city": "Milano",
+            "gender": "male",
+            "gsmId": 1240,
+            "name": "Milan",
+            "officialName": "AC Milan",
+            "type": "club",
+            "wyId": 3157
+          }
+        },
+        "toTeam": {
+          "team": {
+            "area": {
+              "alpha2code": "IT",
+              "alpha3code": "ITA",
+              "id": 380,
+              "name": "Italy"
+            },
+            "category": "default",
+            "children": [
+              {
+                "name": "Venezia U14",
+                "wyId": 65442
+              },
+              {
+                "name": "Venezia U15 A&B",
+                "wyId": 63171
+              },
+              {
+                "name": "Venezia U16 A&B",
+                "wyId": 60878
+              },
+              {
+                "name": "Venezia U17 A&B",
+                "wyId": 60821
+              },
+              {
+                "name": "Venezia U19",
+                "wyId": 24071
+              }
+            ],
+            "city": "Mestre",
+            "gender": "male",
+            "gsmId": 1274,
+            "name": "Venezia",
+            "officialName": "Venezia Football Club",
+            "type": "club",
+            "wyId": 3191
+          }
+        }
+      },
+      "toTeamId": 3191,
+      "toTeamName": "Venezia",
+      "type": "Transfer",
+      "value": 0
+    },
+    {
+      "active": 0,
+      "announceDate": "",
+      "currency": "EUR",
+      "endDate": "0000-00-00",
+      "fromTeamId": 3157,
+      "fromTeamName": "Milan",
+      "player": {
+        "birthArea": {
+          "alpha2code": "IT",
+          "alpha3code": "ITA",
+          "id": 380,
+          "name": "Italy"
+        },
+        "birthDate": "1998-05-07",
+        "currentTeamId": 3209,
+        "firstName": "Andrés",
+        "foot": "left",
+        "gender": "male",
+        "gsmId": 319833,
+        "height": 185,
+        "lastName": "Llamas Acuña",
+        "middleName": "",
+        "passportArea": {
+          "alpha2code": "ES",
+          "alpha3code": "ESP",
+          "id": 724,
+          "name": "Spain"
+        },
+        "role": {
+          "code2": "DF",
+          "code3": "DEF",
+          "name": "Defender"
+        },
+        "shortName": "Andrés Llamas",
+        "status": "active",
+        "weight": 75,
+        "wyId": 286221
+      },
+      "playerId": 286221,
+      "startDate": "2019-07-22",
+      "teamsData": {
+        "fromTeam": {
+          "team": {
+            "area": {
+              "alpha2code": "IT",
+              "alpha3code": "ITA",
+              "id": 380,
+              "name": "Italy"
+            },
+            "category": "default",
+            "children": [
+              {
+                "name": "Milan U14",
+                "wyId": 65162
+              },
+              {
+                "name": "Milan U18",
+                "wyId": 65150
+              },
+              {
+                "name": "Milan U17 A&B",
+                "wyId": 20476
+              },
+              {
+                "name": "Milan U15",
+                "wyId": 20475
+              },
+              {
+                "name": "Milan U19",
+                "wyId": 26542
+              },
+              {
+                "name": "Milan U16 A&B",
+                "wyId": 28066
+              }
+            ],
+            "city": "Milano",
+            "gender": "male",
+            "gsmId": 1240,
+            "name": "Milan",
+            "officialName": "AC Milan",
+            "type": "club",
+            "wyId": 3157
+          }
+        },
+        "toTeam": {
+          "team": {
+            "area": {
+              "alpha2code": "IT",
+              "alpha3code": "ITA",
+              "id": 380,
+              "name": "Italy"
+            },
+            "category": "default",
+            "children": [
+              {
+                "name": "US Pistoiese U14",
+                "wyId": 65535
+              },
+              {
+                "name": "Pistoiese U17",
+                "wyId": 61578
+              },
+              {
+                "name": "Pistoiese U19",
+                "wyId": 31926
+              }
+            ],
+            "city": "Pistoia",
+            "gender": "male",
+            "gsmId": 1292,
+            "name": "Pistoiese",
+            "officialName": "US Pistoiese 1921",
+            "type": "club",
+            "wyId": 3209
+          }
+        }
+      },
+      "toTeamId": 3209,
+      "toTeamName": "Pistoiese",
+      "type": "Transfer",
+      "value": 0
+    },
+    {
+      "active": 0,
+      "announceDate": "",
+      "currency": "EUR",
+      "endDate": "2020-01-10",
+      "fromTeamId": 3157,
+      "fromTeamName": "Milan",
+      "player": {
+        "birthArea": {
+          "alpha2code": "IT",
+          "alpha3code": "ITA",
+          "id": 380,
+          "name": "Italy"
+        },
+        "birthDate": "1998-01-03",
+        "currentNationalTeamId": 3763,
+        "currentTeamId": 3176,
+        "firstName": "Patrick",
+        "foot": "right",
+        "gender": "male",
+        "gsmId": 384563,
+        "height": 184,
+        "lastName": "Cutrone",
+        "middleName": "",
+        "passportArea": {
+          "alpha2code": "IT",
+          "alpha3code": "ITA",
+          "id": 380,
+          "name": "Italy"
+        },
+        "role": {
+          "code2": "FW",
+          "code3": "FWD",
+          "name": "Forward"
+        },
+        "shortName": "P. Cutrone",
+        "status": "active",
+        "weight": 75,
+        "wyId": 351010
+      },
+      "playerId": 351010,
+      "startDate": "2019-07-30",
+      "teamsData": {
+        "fromTeam": {
+          "team": {
+            "area": {
+              "alpha2code": "IT",
+              "alpha3code": "ITA",
+              "id": 380,
+              "name": "Italy"
+            },
+            "category": "default",
+            "children": [
+              {
+                "name": "Milan U14",
+                "wyId": 65162
+              },
+              {
+                "name": "Milan U18",
+                "wyId": 65150
+              },
+              {
+                "name": "Milan U17 A&B",
+                "wyId": 20476
+              },
+              {
+                "name": "Milan U15",
+                "wyId": 20475
+              },
+              {
+                "name": "Milan U19",
+                "wyId": 26542
+              },
+              {
+                "name": "Milan U16 A&B",
+                "wyId": 28066
+              }
+            ],
+            "city": "Milano",
+            "gender": "male",
+            "gsmId": 1240,
+            "name": "Milan",
+            "officialName": "AC Milan",
+            "type": "club",
+            "wyId": 3157
+          }
+        },
+        "toTeam": {
+          "team": {
+            "area": {
+              "alpha2code": "EN",
+              "alpha3code": "XEN",
+              "id": 826,
+              "name": "England"
+            },
+            "category": "default",
+            "children": [
+              {
+                "name": "Wolverhampton Wanderers U17",
+                "wyId": 66032
+              },
+              {
+                "name": "Wolverhampton Wanderers Res.",
+                "wyId": 2307
+              },
+              {
+                "name": "Wolverhampton Wanderers U18",
+                "wyId": 2339
+              },
+              {
+                "name": "Wolverhampton Wanderers U21",
+                "wyId": 22988
+              },
+              {
+                "name": "Wolverhampton Wanderers U23",
+                "wyId": 39813
+              }
+            ],
+            "city": "Wolverhampton",
+            "gender": "male",
+            "gsmId": 680,
+            "name": "Wolverhampton Wanderers",
+            "officialName": "Wolverhampton Wanderers FC",
+            "type": "club",
+            "wyId": 1629
+          }
+        }
+      },
+      "toTeamId": 1629,
+      "toTeamName": "Wolverhampton Wanderers",
+      "type": "Transfer",
+      "value": 0
+    },
+    {
+      "active": 0,
+      "announceDate": "",
+      "currency": "EUR",
+      "endDate": "0000-00-00",
+      "fromTeamId": 3157,
+      "fromTeamName": "Milan",
+      "player": {
+        "birthArea": {
+          "alpha2code": "PT",
+          "alpha3code": "PRT",
+          "id": 620,
+          "name": "Portugal"
+        },
+        "birthDate": "2000-04-09",
+        "currentNationalTeamId": 9910,
+        "currentTeamId": 3776,
+        "firstName": "Tiago Emanuel",
+        "foot": "right",
+        "gender": "male",
+        "gsmId": 460632,
+        "height": 190,
+        "lastName": "Embalo Djaló",
+        "middleName": "",
+        "passportArea": {
+          "alpha2code": "GW",
+          "alpha3code": "GNB",
+          "id": 624,
+          "name": "Guinea-Bissau"
+        },
+        "role": {
+          "code2": "DF",
+          "code3": "DEF",
+          "name": "Defender"
+        },
+        "shortName": "Tiago Djaló",
+        "status": "active",
+        "weight": 85,
+        "wyId": 472669
+      },
+      "playerId": 472669,
+      "startDate": "2019-08-01",
+      "teamsData": {
+        "fromTeam": {
+          "team": {
+            "area": {
+              "alpha2code": "IT",
+              "alpha3code": "ITA",
+              "id": 380,
+              "name": "Italy"
+            },
+            "category": "default",
+            "children": [
+              {
+                "name": "Milan U14",
+                "wyId": 65162
+              },
+              {
+                "name": "Milan U18",
+                "wyId": 65150
+              },
+              {
+                "name": "Milan U17 A&B",
+                "wyId": 20476
+              },
+              {
+                "name": "Milan U15",
+                "wyId": 20475
+              },
+              {
+                "name": "Milan U19",
+                "wyId": 26542
+              },
+              {
+                "name": "Milan U16 A&B",
+                "wyId": 28066
+              }
+            ],
+            "city": "Milano",
+            "gender": "male",
+            "gsmId": 1240,
+            "name": "Milan",
+            "officialName": "AC Milan",
+            "type": "club",
+            "wyId": 3157
+          }
+        },
+        "toTeam": {
+          "team": {
+            "area": {
+              "alpha2code": "FR",
+              "alpha3code": "FRA",
+              "id": 250,
+              "name": "France"
+            },
+            "category": "default",
+            "children": [
+              {
+                "name": "Lille U17",
+                "wyId": 65257
+              },
+              {
+                "name": "Lille U15",
+                "wyId": 65197
+              },
+              {
+                "name": "Lille II",
+                "wyId": 3915
+              },
+              {
+                "name": "Lille U19",
+                "wyId": 4366
+              }
+            ],
+            "city": "Villeneuve-d'Ascq",
+            "gender": "male",
+            "gsmId": 895,
+            "name": "Lille",
+            "officialName": "Lille OSC Métropole",
+            "type": "club",
+            "wyId": 3776
+          }
+        }
+      },
+      "toTeamId": 3776,
+      "toTeamName": "Lille",
+      "type": "Transfer",
+      "value": 0
+    },
+    {
+      "active": 0,
+      "announceDate": "",
+      "currency": "EUR",
+      "endDate": "2020-07-01",
+      "fromTeamId": 3157,
+      "fromTeamName": "AC Milan",
+      "player": {
+        "birthArea": {
+          "alpha2code": "IT",
+          "alpha3code": "ITA",
+          "id": 380,
+          "name": "Italy"
+        },
+        "birthDate": "1999-05-31",
+        "currentTeamId": 3157,
+        "firstName": "Ismet",
+        "foot": "right",
+        "gender": "male",
+        "gsmId": 427024,
+        "height": 0,
+        "lastName": "Sinani",
+        "middleName": "",
+        "passportArea": {
+          "alpha2code": "KS",
+          "alpha3code": "XKS",
+          "id": 1328,
+          "name": "Kosovo"
+        },
+        "role": {
+          "code2": "FW",
+          "code3": "FWD",
+          "name": "Forward"
+        },
+        "shortName": "I. Sinani",
+        "status": "active",
+        "weight": 0,
+        "wyId": 404701
+      },
+      "playerId": 404701,
+      "startDate": "2019-07-25",
+      "teamsData": {
+        "fromTeam": {
+          "team": {
+            "area": {
+              "alpha2code": "IT",
+              "alpha3code": "ITA",
+              "id": 380,
+              "name": "Italy"
+            },
+            "category": "default",
+            "children": [
+              {
+                "name": "Milan U14",
+                "wyId": 65162
+              },
+              {
+                "name": "Milan U18",
+                "wyId": 65150
+              },
+              {
+                "name": "Milan U17 A&B",
+                "wyId": 20476
+              },
+              {
+                "name": "Milan U15",
+                "wyId": 20475
+              },
+              {
+                "name": "Milan U19",
+                "wyId": 26542
+              },
+              {
+                "name": "Milan U16 A&B",
+                "wyId": 28066
+              }
+            ],
+            "city": "Milano",
+            "gender": "male",
+            "gsmId": 1240,
+            "name": "Milan",
+            "officialName": "AC Milan",
+            "type": "club",
+            "wyId": 3157
+          }
+        },
+        "toTeam": {
+          "team": {
+            "area": {
+              "alpha2code": "IT",
+              "alpha3code": "ITA",
+              "id": 380,
+              "name": "Italy"
+            },
+            "category": "default",
+            "children": [
+              {
+                "name": "Sicula Leonzio U15",
+                "wyId": 65312
+              },
+              {
+                "name": "Sicula Leonzio U17",
+                "wyId": 65311
+              },
+              {
+                "name": "Sicula Leonzio U19",
+                "wyId": 60972
+              }
+            ],
+            "city": "Lentini",
+            "gender": "male",
+            "gsmId": 37385,
+            "name": "Sicula Leonzio",
+            "officialName": "Sicula Leonzio",
+            "type": "club",
+            "wyId": 39972
+          }
+        }
+      },
+      "toTeamId": 39972,
+      "toTeamName": "Sicula Leonzio",
+      "type": "Loan",
+      "value": 0
+    },
+    {
+      "active": 0,
+      "announceDate": "",
+      "currency": "EUR",
+      "endDate": "2020-08-31",
+      "fromTeamId": 3157,
+      "fromTeamName": "AC Milan",
+      "player": {
+        "birthArea": {
+          "alpha2code": "IT",
+          "alpha3code": "ITA",
+          "id": 380,
+          "name": "Italy"
+        },
+        "birthDate": "2000-03-12",
+        "currentNationalTeamId": 3763,
+        "currentTeamId": 3170,
+        "firstName": "Alessandro",
+        "foot": "right",
+        "gender": "male",
+        "gsmId": 440084,
+        "height": 192,
+        "lastName": "Plizzari",
+        "middleName": "",
+        "passportArea": {
+          "alpha2code": "IT",
+          "alpha3code": "ITA",
+          "id": 380,
+          "name": "Italy"
+        },
+        "role": {
+          "code2": "GK",
+          "code3": "GKP",
+          "name": "Goalkeeper"
+        },
+        "shortName": "A. Plizzari",
+        "status": "active",
+        "weight": 81,
+        "wyId": 423148
+      },
+      "playerId": 423148,
+      "startDate": "2019-08-01",
+      "teamsData": {
+        "fromTeam": {
+          "team": {
+            "area": {
+              "alpha2code": "IT",
+              "alpha3code": "ITA",
+              "id": 380,
+              "name": "Italy"
+            },
+            "category": "default",
+            "children": [
+              {
+                "name": "Milan U14",
+                "wyId": 65162
+              },
+              {
+                "name": "Milan U18",
+                "wyId": 65150
+              },
+              {
+                "name": "Milan U17 A&B",
+                "wyId": 20476
+              },
+              {
+                "name": "Milan U15",
+                "wyId": 20475
+              },
+              {
+                "name": "Milan U19",
+                "wyId": 26542
+              },
+              {
+                "name": "Milan U16 A&B",
+                "wyId": 28066
+              }
+            ],
+            "city": "Milano",
+            "gender": "male",
+            "gsmId": 1240,
+            "name": "Milan",
+            "officialName": "AC Milan",
+            "type": "club",
+            "wyId": 3157
+          }
+        },
+        "toTeam": {
+          "team": {
+            "area": {
+              "alpha2code": "IT",
+              "alpha3code": "ITA",
+              "id": 380,
+              "name": "Italy"
+            },
+            "category": "default",
+            "children": [
+              {
+                "name": "Livorno U14",
+                "wyId": 65619
+              },
+              {
+                "name": "Livorno U16 A&B",
+                "wyId": 36487
+              },
+              {
+                "name": "Livorno U17 A&B",
+                "wyId": 23836
+              },
+              {
+                "name": "Livorno U15",
+                "wyId": 20460
+              },
+              {
+                "name": "Livorno U19",
+                "wyId": 3706
+              }
+            ],
+            "city": "Livorno",
+            "gender": "male",
+            "gsmId": 1258,
+            "name": "Livorno",
+            "officialName": "AS Livorno Calcio",
+            "type": "club",
+            "wyId": 3175
+          }
+        }
+      },
+      "toTeamId": 3175,
+      "toTeamName": "AS Livorno Calcio",
+      "type": "Loan",
+      "value": 0
+    },
+    {
+      "active": 0,
+      "announceDate": "",
+      "currency": "EUR",
+      "endDate": "0000-00-00",
+      "fromTeamId": 3172,
+      "fromTeamName": "Atalanta",
+      "player": {
+        "birthArea": {
+          "alpha2code": "CI",
+          "alpha3code": "CIV",
+          "id": 384,
+          "name": "Côte d'Ivoire"
+        },
+        "birthDate": "1996-12-19",
+        "currentNationalTeamId": 17980,
+        "currentTeamId": 3157,
+        "firstName": "Franck Yannick",
+        "foot": "right",
+        "gender": "male",
+        "gsmId": 319023,
+        "height": 183,
+        "lastName": "Kessié",
+        "middleName": "",
+        "passportArea": {
+          "alpha2code": "CI",
+          "alpha3code": "CIV",
+          "id": 384,
+          "name": "Côte d'Ivoire"
+        },
+        "role": {
+          "code2": "MD",
+          "code3": "MID",
+          "name": "Midfielder"
+        },
+        "shortName": "F. Kessié",
+        "status": "active",
+        "weight": 77,
+        "wyId": 285109
+      },
+      "playerId": 285109,
+      "startDate": "2019-07-01",
+      "teamsData": {
+        "fromTeam": {
+          "team": {
+            "area": {
+              "alpha2code": "IT",
+              "alpha3code": "ITA",
+              "id": 380,
+              "name": "Italy"
+            },
+            "category": "default",
+            "children": [
+              {
+                "name": "Atalanta U14",
+                "wyId": 65168
+              },
+              {
+                "name": "Atalanta U18",
+                "wyId": 65151
+              },
+              {
+                "name": "Atalanta U16 A&B",
+                "wyId": 60879
+              },
+              {
+                "name": "Atalanta U17 A&B",
+                "wyId": 21722
+              },
+              {
+                "name": "Atalanta U15",
+                "wyId": 20350
+              },
+              {
+                "name": "Atalanta U19",
+                "wyId": 3715
+              },
+              {
+                "name": "Atalanta Prim. II",
+                "wyId": 24070
+              }
+            ],
+            "city": "Ciserano",
+            "gender": "male",
+            "gsmId": 1255,
+            "name": "Atalanta",
+            "officialName": "Atalanta Bergamasca Calcio",
+            "type": "club",
+            "wyId": 3172
+          }
+        },
+        "toTeam": {
+          "team": {
+            "area": {
+              "alpha2code": "IT",
+              "alpha3code": "ITA",
+              "id": 380,
+              "name": "Italy"
+            },
+            "category": "default",
+            "children": [
+              {
+                "name": "Milan U14",
+                "wyId": 65162
+              },
+              {
+                "name": "Milan U18",
+                "wyId": 65150
+              },
+              {
+                "name": "Milan U17 A&B",
+                "wyId": 20476
+              },
+              {
+                "name": "Milan U15",
+                "wyId": 20475
+              },
+              {
+                "name": "Milan U19",
+                "wyId": 26542
+              },
+              {
+                "name": "Milan U16 A&B",
+                "wyId": 28066
+              }
+            ],
+            "city": "Milano",
+            "gender": "male",
+            "gsmId": 1240,
+            "name": "Milan",
+            "officialName": "AC Milan",
+            "type": "club",
+            "wyId": 3157
+          }
+        }
+      },
+      "toTeamId": 3157,
+      "toTeamName": "Milan",
+      "type": "Transfer",
+      "value": 0
+    },
+    {
+      "active": 0,
+      "announceDate": "",
+      "currency": "EUR",
+      "endDate": "0000-00-00",
+      "fromTeamId": 675,
+      "fromTeamName": "Real Madrid",
+      "player": {
+        "birthArea": {
+          "alpha2code": "FR",
+          "alpha3code": "FRA",
+          "id": 250,
+          "name": "France"
+        },
+        "birthDate": "1997-10-06",
+        "currentTeamId": 3157,
+        "firstName": "Theo Bernard François",
+        "foot": "left",
+        "gender": "male",
+        "gsmId": 372541,
+        "height": 184,
+        "lastName": "Hernández",
+        "middleName": "",
+        "passportArea": {
+          "alpha2code": "ES",
+          "alpha3code": "ESP",
+          "id": 724,
+          "name": "Spain"
+        },
+        "role": {
+          "code2": "DF",
+          "code3": "DEF",
+          "name": "Defender"
+        },
+        "shortName": "Theo Hernández",
+        "status": "active",
+        "weight": 82,
+        "wyId": 344132
+      },
+      "playerId": 344132,
+      "startDate": "2019-07-06",
+      "teamsData": {
+        "fromTeam": {
+          "team": {
+            "area": {
+              "alpha2code": "ES",
+              "alpha3code": "ESP",
+              "id": 724,
+              "name": "Spain"
+            },
+            "category": "default",
+            "children": [
+              {
+                "name": "Real Madrid U14",
+                "wyId": 65933
+              },
+              {
+                "name": "Real Madrid U15",
+                "wyId": 32497
+              },
+              {
+                "name": "Real Madrid Castilla",
+                "wyId": 736
+              },
+              {
+                "name": "Real Madrid III",
+                "wyId": 983
+              },
+              {
+                "name": "Real Madrid U19",
+                "wyId": 26530
+              },
+              {
+                "name": "Real Madrid U18",
+                "wyId": 27237
+              },
+              {
+                "name": "Real Madrid U16",
+                "wyId": 28055
+              },
+              {
+                "name": "Real Madrid U17",
+                "wyId": 30248
+              },
+              {
+                "name": "Real Madrid U21",
+                "wyId": 31362
+              }
+            ],
+            "city": "Madrid",
+            "gender": "male",
+            "gsmId": 2016,
+            "name": "Real Madrid",
+            "officialName": "Real Madrid Club de Fútbol",
+            "type": "club",
+            "wyId": 675
+          }
+        },
+        "toTeam": {
+          "team": {
+            "area": {
+              "alpha2code": "IT",
+              "alpha3code": "ITA",
+              "id": 380,
+              "name": "Italy"
+            },
+            "category": "default",
+            "children": [
+              {
+                "name": "Milan U14",
+                "wyId": 65162
+              },
+              {
+                "name": "Milan U18",
+                "wyId": 65150
+              },
+              {
+                "name": "Milan U17 A&B",
+                "wyId": 20476
+              },
+              {
+                "name": "Milan U15",
+                "wyId": 20475
+              },
+              {
+                "name": "Milan U19",
+                "wyId": 26542
+              },
+              {
+                "name": "Milan U16 A&B",
+                "wyId": 28066
+              }
+            ],
+            "city": "Milano",
+            "gender": "male",
+            "gsmId": 1240,
+            "name": "Milan",
+            "officialName": "AC Milan",
+            "type": "club",
+            "wyId": 3157
+          }
+        }
+      },
+      "toTeamId": 3157,
+      "toTeamName": "Milan",
+      "type": "Transfer",
+      "value": 0
+    },
+    {
+      "active": 0,
+      "announceDate": "",
+      "currency": "EUR",
+      "endDate": "0000-00-00",
+      "fromTeamId": 3178,
+      "fromTeamName": "Empoli",
+      "player": {
+        "birthArea": {
+          "alpha2code": "BA",
+          "alpha3code": "BIH",
+          "id": 70,
+          "name": "Bosnia-Herzegovina"
+        },
+        "birthDate": "1993-10-07",
+        "currentTeamId": 3157,
+        "firstName": "Rade",
+        "foot": "right",
+        "gender": "male",
+        "gsmId": 286323,
+        "height": 184,
+        "lastName": "Krunić",
+        "middleName": "",
+        "passportArea": {
+          "alpha2code": "BA",
+          "alpha3code": "BIH",
+          "id": 70,
+          "name": "Bosnia-Herzegovina"
+        },
+        "role": {
+          "code2": "MD",
+          "code3": "MID",
+          "name": "Midfielder"
+        },
+        "shortName": "R. Krunić",
+        "status": "active",
+        "weight": 74,
+        "wyId": 254493
+      },
+      "playerId": 254493,
+      "startDate": "2019-07-08",
+      "teamsData": {
+        "fromTeam": {
+          "team": {
+            "area": {
+              "alpha2code": "IT",
+              "alpha3code": "ITA",
+              "id": 380,
+              "name": "Italy"
+            },
+            "category": "default",
+            "children": [
+              {
+                "name": "Empoli U14",
+                "wyId": 65531
+              },
+              {
+                "name": "Empoli U17 A&B",
+                "wyId": 57136
+              },
+              {
+                "name": "Empoli U16 A&B",
+                "wyId": 34378
+              },
+              {
+                "name": "Empoli U15 A&B",
+                "wyId": 20409
+              },
+              {
+                "name": "Empoli U19",
+                "wyId": 3701
+              }
+            ],
+            "city": "Empoli",
+            "gender": "male",
+            "gsmId": 1261,
+            "name": "Empoli",
+            "officialName": "Empoli FC",
+            "type": "club",
+            "wyId": 3178
+          }
+        },
+        "toTeam": {
+          "team": {
+            "area": {
+              "alpha2code": "IT",
+              "alpha3code": "ITA",
+              "id": 380,
+              "name": "Italy"
+            },
+            "category": "default",
+            "children": [
+              {
+                "name": "Milan U14",
+                "wyId": 65162
+              },
+              {
+                "name": "Milan U18",
+                "wyId": 65150
+              },
+              {
+                "name": "Milan U17 A&B",
+                "wyId": 20476
+              },
+              {
+                "name": "Milan U15",
+                "wyId": 20475
+              },
+              {
+                "name": "Milan U19",
+                "wyId": 26542
+              },
+              {
+                "name": "Milan U16 A&B",
+                "wyId": 28066
+              }
+            ],
+            "city": "Milano",
+            "gender": "male",
+            "gsmId": 1240,
+            "name": "Milan",
+            "officialName": "AC Milan",
+            "type": "club",
+            "wyId": 3157
+          }
+        }
+      },
+      "toTeamId": 3157,
+      "toTeamName": "Milan",
+      "type": "Transfer",
+      "value": 0
+    },
+    {
+      "active": 0,
+      "announceDate": "",
+      "currency": "EUR",
+      "endDate": "0000-00-00",
+      "fromTeamId": 3776,
+      "fromTeamName": "Lille",
+      "player": {
+        "birthArea": {
+          "alpha2code": "PT",
+          "alpha3code": "PRT",
+          "id": 620,
+          "name": "Portugal"
+        },
+        "birthDate": "1999-06-10",
+        "currentTeamId": 3157,
+        "firstName": "Rafael Alexandre",
+        "foot": "right",
+        "gender": "male",
+        "gsmId": 421589,
+        "height": 188,
+        "lastName": "Conceição Leão",
+        "middleName": "",
+        "passportArea": {
+          "alpha2code": "AO",
+          "alpha3code": "AGO",
+          "id": 24,
+          "name": "Angola"
+        },
+        "role": {
+          "code2": "FW",
+          "code3": "FWD",
+          "name": "Forward"
+        },
+        "shortName": "Rafael Leão",
+        "status": "active",
+        "weight": 81,
+        "wyId": 399654
+      },
+      "playerId": 399654,
+      "startDate": "2019-08-01",
+      "teamsData": {
+        "fromTeam": {
+          "team": {
+            "area": {
+              "alpha2code": "FR",
+              "alpha3code": "FRA",
+              "id": 250,
+              "name": "France"
+            },
+            "category": "default",
+            "children": [
+              {
+                "name": "Lille U17",
+                "wyId": 65257
+              },
+              {
+                "name": "Lille U15",
+                "wyId": 65197
+              },
+              {
+                "name": "Lille II",
+                "wyId": 3915
+              },
+              {
+                "name": "Lille U19",
+                "wyId": 4366
+              }
+            ],
+            "city": "Villeneuve-d'Ascq",
+            "gender": "male",
+            "gsmId": 895,
+            "name": "Lille",
+            "officialName": "Lille OSC Métropole",
+            "type": "club",
+            "wyId": 3776
+          }
+        },
+        "toTeam": {
+          "team": {
+            "area": {
+              "alpha2code": "IT",
+              "alpha3code": "ITA",
+              "id": 380,
+              "name": "Italy"
+            },
+            "category": "default",
+            "children": [
+              {
+                "name": "Milan U14",
+                "wyId": 65162
+              },
+              {
+                "name": "Milan U18",
+                "wyId": 65150
+              },
+              {
+                "name": "Milan U17 A&B",
+                "wyId": 20476
+              },
+              {
+                "name": "Milan U15",
+                "wyId": 20475
+              },
+              {
+                "name": "Milan U19",
+                "wyId": 26542
+              },
+              {
+                "name": "Milan U16 A&B",
+                "wyId": 28066
+              }
+            ],
+            "city": "Milano",
+            "gender": "male",
+            "gsmId": 1240,
+            "name": "Milan",
+            "officialName": "AC Milan",
+            "type": "club",
+            "wyId": 3157
+          }
+        }
+      },
+      "toTeamId": 3157,
+      "toTeamName": "Milan",
+      "type": "Transfer",
+      "value": 0
+    }
+  ]
+}

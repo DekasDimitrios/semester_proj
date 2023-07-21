@@ -1,0 +1,511 @@
+{
+  "transfer": [
+    {
+      "active": 0,
+      "announceDate": "",
+      "currency": "EUR",
+      "endDate": "2020-07-01",
+      "fromTeamId": 15822,
+      "fromTeamName": "FC Kolkheti 1913 Poti",
+      "player": {
+        "birthArea": {
+          "alpha2code": "UA",
+          "alpha3code": "UKR",
+          "id": 804,
+          "name": "Ukraine"
+        },
+        "birthDate": "1991-06-26",
+        "firstName": "Stanislav",
+        "foot": "left",
+        "gender": "male",
+        "gsmId": 180098,
+        "height": 182,
+        "lastName": "Prychynenko",
+        "middleName": "",
+        "passportArea": {
+          "alpha2code": "RU",
+          "alpha3code": "RUS",
+          "id": 643,
+          "name": "Russia"
+        },
+        "role": {
+          "code2": "MD",
+          "code3": "MID",
+          "name": "Midfielder"
+        },
+        "shortName": "S. Prychynenko",
+        "status": "active",
+        "weight": 74,
+        "wyId": 105477
+      },
+      "playerId": 105477,
+      "startDate": "2019-02-08",
+      "teamsData": {
+        "fromTeam": {
+          "team": {
+            "area": {
+              "alpha2code": "GE",
+              "alpha3code": "GEO",
+              "id": 268,
+              "name": "Georgia"
+            },
+            "category": "default",
+            "children": [
+              {
+                "name": "Kolkheti Poti II",
+                "wyId": 26362
+              },
+              {
+                "name": "Kolkheti Poti Res.",
+                "wyId": 25006
+              }
+            ],
+            "city": "Poti",
+            "gender": "male",
+            "gsmId": 955,
+            "name": "Kolkheti Poti",
+            "officialName": "FC Kolkheti 1913 Poti",
+            "type": "club",
+            "wyId": 15822
+          }
+        },
+        "toTeam": {
+          "team": {
+            "area": {
+              "alpha2code": "RU",
+              "alpha3code": "RUS",
+              "id": 643,
+              "name": "Russia"
+            },
+            "category": "default",
+            "children": [
+              {
+                "name": "Baltika II",
+                "wyId": 14040
+              }
+            ],
+            "city": "Kaliningrad",
+            "gender": "male",
+            "gsmId": 1875,
+            "name": "Baltika",
+            "officialName": "FK Baltika Kaliningrad",
+            "type": "club",
+            "wyId": 13917
+          }
+        }
+      },
+      "toTeamId": 13917,
+      "toTeamName": "FK Baltika Kaliningrad",
+      "type": "Transfer",
+      "value": 0
+    },
+    {
+      "active": 0,
+      "announceDate": "",
+      "currency": "EUR",
+      "endDate": "2019-08-01",
+      "fromTeamId": 15822,
+      "fromTeamName": "Kolkheti Poti",
+      "player": {
+        "birthArea": {
+          "alpha2code": "UA",
+          "alpha3code": "UKR",
+          "id": 804,
+          "name": "Ukraine"
+        },
+        "birthDate": "1990-07-31",
+        "currentTeamId": 65021,
+        "firstName": "Ilya",
+        "foot": "right",
+        "gender": "male",
+        "gsmId": 159834,
+        "height": 187,
+        "lastName": "Mykhalyov",
+        "middleName": "",
+        "passportArea": {
+          "alpha2code": "RU",
+          "alpha3code": "RUS",
+          "id": 643,
+          "name": "Russia"
+        },
+        "role": {
+          "code2": "FW",
+          "code3": "FWD",
+          "name": "Forward"
+        },
+        "shortName": "I. Mykhalyov",
+        "status": "active",
+        "weight": 82,
+        "wyId": 102054
+      },
+      "playerId": 102054,
+      "startDate": "2019-03-11",
+      "teamsData": {
+        "fromTeam": {
+          "team": {
+            "area": {
+              "alpha2code": "GE",
+              "alpha3code": "GEO",
+              "id": 268,
+              "name": "Georgia"
+            },
+            "category": "default",
+            "children": [
+              {
+                "name": "Kolkheti Poti II",
+                "wyId": 26362
+              },
+              {
+                "name": "Kolkheti Poti Res.",
+                "wyId": 25006
+              }
+            ],
+            "city": "Poti",
+            "gender": "male",
+            "gsmId": 955,
+            "name": "Kolkheti Poti",
+            "officialName": "FC Kolkheti 1913 Poti",
+            "type": "club",
+            "wyId": 15822
+          }
+        },
+        "toTeam": {
+          "team": {
+            "area": {
+              "alpha2code": "GE",
+              "alpha3code": "GEO",
+              "id": 268,
+              "name": "Georgia"
+            },
+            "category": "default",
+            "city": "Tbilisi",
+            "gender": "male",
+            "gsmId": 37768,
+            "name": "Shevardeni 1906",
+            "officialName": "FC Shevardeni 1906 Tbilisi",
+            "type": "club",
+            "wyId": 57556
+          }
+        }
+      },
+      "toTeamId": 57556,
+      "toTeamName": "Shevardeni 1906",
+      "type": "Transfer",
+      "value": 0
+    },
+    {
+      "active": 0,
+      "announceDate": "",
+      "currency": "EUR",
+      "endDate": "2019-10-01",
+      "fromTeamId": 15822,
+      "fromTeamName": "Kolkheti Poti",
+      "playerId": 481804,
+      "startDate": "2019-04-01",
+      "teamsData": {
+        "fromTeam": {
+          "team": {
+            "area": {
+              "alpha2code": "GE",
+              "alpha3code": "GEO",
+              "id": 268,
+              "name": "Georgia"
+            },
+            "category": "default",
+            "children": [
+              {
+                "name": "Kolkheti Poti II",
+                "wyId": 26362
+              },
+              {
+                "name": "Kolkheti Poti Res.",
+                "wyId": 25006
+              }
+            ],
+            "city": "Poti",
+            "gender": "male",
+            "gsmId": 955,
+            "name": "Kolkheti Poti",
+            "officialName": "FC Kolkheti 1913 Poti",
+            "type": "club",
+            "wyId": 15822
+          }
+        },
+        "toTeam": {}
+      },
+      "toTeamId": 0,
+      "toTeamName": "",
+      "type": "Free Agent",
+      "value": 0
+    },
+    {
+      "active": 0,
+      "announceDate": "",
+      "currency": "EUR",
+      "endDate": "2020-08-07",
+      "fromTeamId": 15822,
+      "fromTeamName": "FC Kolkheti 1913 Poti",
+      "player": {
+        "birthArea": {
+          "alpha2code": "RU",
+          "alpha3code": "RUS",
+          "id": 643,
+          "name": "Russia"
+        },
+        "birthDate": "1992-04-14",
+        "currentTeamId": 14030,
+        "firstName": "Denis",
+        "foot": "right",
+        "gender": "male",
+        "gsmId": 123068,
+        "height": 186,
+        "lastName": "Kniga",
+        "middleName": "",
+        "passportArea": {
+          "alpha2code": "RU",
+          "alpha3code": "RUS",
+          "id": 643,
+          "name": "Russia"
+        },
+        "role": {
+          "code2": "GK",
+          "code3": "GKP",
+          "name": "Goalkeeper"
+        },
+        "shortName": "D. Kniga",
+        "status": "active",
+        "weight": 72,
+        "wyId": 102143
+      },
+      "playerId": 102143,
+      "startDate": "2019-04-01",
+      "teamsData": {
+        "fromTeam": {
+          "team": {
+            "area": {
+              "alpha2code": "GE",
+              "alpha3code": "GEO",
+              "id": 268,
+              "name": "Georgia"
+            },
+            "category": "default",
+            "children": [
+              {
+                "name": "Kolkheti Poti II",
+                "wyId": 26362
+              },
+              {
+                "name": "Kolkheti Poti Res.",
+                "wyId": 25006
+              }
+            ],
+            "city": "Poti",
+            "gender": "male",
+            "gsmId": 955,
+            "name": "Kolkheti Poti",
+            "officialName": "FC Kolkheti 1913 Poti",
+            "type": "club",
+            "wyId": 15822
+          }
+        },
+        "toTeam": {
+          "team": {
+            "area": {
+              "alpha2code": "MN",
+              "alpha3code": "MNG",
+              "id": 496,
+              "name": "Mongolia"
+            },
+            "category": "default",
+            "city": "Sumida",
+            "gender": "male",
+            "gsmId": 33611,
+            "name": "Deren",
+            "officialName": "FC Deren Sumida",
+            "type": "club",
+            "wyId": 34280
+          }
+        }
+      },
+      "toTeamId": 34280,
+      "toTeamName": "FC Deren Sumida",
+      "type": "Transfer",
+      "value": 0
+    },
+    {
+      "active": 0,
+      "announceDate": "",
+      "currency": "EUR",
+      "endDate": "2019-08-01",
+      "fromTeamId": 0,
+      "fromTeamName": "",
+      "player": {
+        "birthArea": {
+          "alpha2code": "CI",
+          "alpha3code": "CIV",
+          "id": 384,
+          "name": "Côte d'Ivoire"
+        },
+        "birthDate": "1993-12-21",
+        "currentTeamId": 15844,
+        "firstName": "Alain Loic",
+        "gender": "male",
+        "gsmId": 312531,
+        "height": 180,
+        "lastName": "Vianney Kouakou",
+        "middleName": "",
+        "passportArea": {
+          "alpha2code": "CI",
+          "alpha3code": "CIV",
+          "id": 384,
+          "name": "Côte d'Ivoire"
+        },
+        "role": {
+          "code2": "FW",
+          "code3": "FWD",
+          "name": "Forward"
+        },
+        "shortName": "A. Kouakou",
+        "status": "active",
+        "weight": 68,
+        "wyId": 277232
+      },
+      "playerId": 277232,
+      "startDate": "2019-03-01",
+      "teamsData": {
+        "fromTeam": {},
+        "toTeam": {
+          "team": {
+            "area": {
+              "alpha2code": "GE",
+              "alpha3code": "GEO",
+              "id": 268,
+              "name": "Georgia"
+            },
+            "category": "default",
+            "children": [
+              {
+                "name": "Kolkheti Poti II",
+                "wyId": 26362
+              },
+              {
+                "name": "Kolkheti Poti Res.",
+                "wyId": 25006
+              }
+            ],
+            "city": "Poti",
+            "gender": "male",
+            "gsmId": 955,
+            "name": "Kolkheti Poti",
+            "officialName": "FC Kolkheti 1913 Poti",
+            "type": "club",
+            "wyId": 15822
+          }
+        }
+      },
+      "toTeamId": 15822,
+      "toTeamName": "Kolkheti Poti",
+      "type": "Free Transfer",
+      "value": 0
+    },
+    {
+      "active": 0,
+      "announceDate": "",
+      "currency": "EUR",
+      "endDate": "0000-00-00",
+      "fromTeamId": 55159,
+      "fromTeamName": "Dinamo Tbilisi U19",
+      "player": {
+        "birthArea": {
+          "alpha2code": "GE",
+          "alpha3code": "GEO",
+          "id": 268,
+          "name": "Georgia"
+        },
+        "birthDate": "1999-10-25",
+        "currentTeamId": 15822,
+        "firstName": "Giorgi",
+        "foot": "right",
+        "gender": "male",
+        "gsmId": 463150,
+        "height": 185,
+        "lastName": "Tchurgulashvili",
+        "middleName": "",
+        "passportArea": {
+          "alpha2code": "GE",
+          "alpha3code": "GEO",
+          "id": 268,
+          "name": "Georgia"
+        },
+        "role": {
+          "code2": "DF",
+          "code3": "DEF",
+          "name": "Defender"
+        },
+        "shortName": "G. Tchurgulashvili",
+        "status": "active",
+        "weight": 69,
+        "wyId": 475718
+      },
+      "playerId": 475718,
+      "startDate": "2019-03-01",
+      "teamsData": {
+        "fromTeam": {
+          "team": {
+            "area": {
+              "alpha2code": "GE",
+              "alpha3code": "GEO",
+              "id": 268,
+              "name": "Georgia"
+            },
+            "category": "youth",
+            "city": "Tbilisi",
+            "gender": "male",
+            "gsmId": 37539,
+            "name": "Dinamo Tbilisi U19",
+            "officialName": "FC Dinamo Tbilisi Under 19",
+            "parent": {
+              "name": "Dinamo Tbilisi",
+              "wyId": 15814
+            },
+            "type": "club",
+            "wyId": 55159
+          }
+        },
+        "toTeam": {
+          "team": {
+            "area": {
+              "alpha2code": "GE",
+              "alpha3code": "GEO",
+              "id": 268,
+              "name": "Georgia"
+            },
+            "category": "default",
+            "children": [
+              {
+                "name": "Kolkheti Poti II",
+                "wyId": 26362
+              },
+              {
+                "name": "Kolkheti Poti Res.",
+                "wyId": 25006
+              }
+            ],
+            "city": "Poti",
+            "gender": "male",
+            "gsmId": 955,
+            "name": "Kolkheti Poti",
+            "officialName": "FC Kolkheti 1913 Poti",
+            "type": "club",
+            "wyId": 15822
+          }
+        }
+      },
+      "toTeamId": 15822,
+      "toTeamName": "Kolkheti Poti",
+      "type": "Transfer",
+      "value": 0
+    }
+  ],
+  "wyId": 186792
+}

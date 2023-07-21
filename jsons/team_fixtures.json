@@ -1,0 +1,48 @@
+{
+  "matches": [
+    {
+      "competitionId": 271,
+      "date": "2012-05-19 08:00:00",
+      "dateutc": "2012-05-19 07:00:00",
+      "gameweek": 9,
+      "label": "Phnom Penh Crown - National Defense Ministry, 0-0",
+      "matchId": 796984,
+      "roundId": 448727,
+      "seasonId": 5940,
+      "status": "Fixture"
+    },
+    {
+      "competitionId": 271,
+      "date": "2015-10-22 09:30:00",
+      "dateutc": "2015-10-22 08:30:00",
+      "gameweek": 0,
+      "label": "Boeung Ket - Phnom Penh Crown, 0-0",
+      "matchId": 1722505,
+      "roundId": 3982128,
+      "seasonId": 9442,
+      "status": "Fixture"
+    },
+    {
+      "competitionId": 271,
+      "date": "2020-09-12 13:00:00",
+      "dateutc": "2020-09-12 11:00:00",
+      "gameweek": 1,
+      "label": "Visakha - Phnom Penh Crown, 0-0",
+      "matchId": 5157087,
+      "roundId": 4422680,
+      "seasonId": 186885,
+      "status": "Fixture"
+    },
+    {
+      "competitionId": 271,
+      "date": "2020-09-26 10:30:00",
+      "dateutc": "2020-09-26 08:30:00",
+      "gameweek": 1,
+      "label": "National Defense - Phnom Penh Crown, 0-0",
+      "matchId": 5157090,
+      "roundId": 4422680,
+      "seasonId": 186885,
+      "status": "Fixture"
+    }
+  ]
+}

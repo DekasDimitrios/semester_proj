@@ -1,0 +1,406 @@
+{
+  "competition": {
+    "area": {
+      "alpha2code": "WO",
+      "alpha3code": "XWO",
+      "id": 1420,
+      "name": "World"
+    },
+    "category": "default",
+    "divisionLevel": 0,
+    "format": "International cup",
+    "gender": "female",
+    "gsmId": 1633,
+    "name": "Yongchuan Tournament",
+    "type": "international",
+    "wyId": 43037
+  },
+  "rounds": [
+    {
+      "groups": [
+        {
+          "teams": [
+            {
+              "competitionId": 43037,
+              "gameDraw": 0,
+              "gameLost": 0,
+              "gameTotal": 1,
+              "gameWon": 1,
+              "goalAgainst": 0,
+              "goalPro": 4,
+              "groupId": 0,
+              "groupName": "1",
+              "points": 3,
+              "rank": 1,
+              "roundId": 4421316,
+              "roundName": "Semi-Finals",
+              "seasonId": 186754,
+              "team": {
+                "area": {
+                  "alpha2code": "BR",
+                  "alpha3code": "BRA",
+                  "id": 76,
+                  "name": "Brazil"
+                },
+                "category": "default",
+                "children": [
+                  {
+                    "name": "Brazil U20",
+                    "wyId": 6384
+                  },
+                  {
+                    "name": "Brazil U17",
+                    "wyId": 6383
+                  }
+                ],
+                "city": "Rio de Janeiro, Rio de Janeiro",
+                "gender": "female",
+                "gsmId": 5967,
+                "name": "Brazil",
+                "officialName": "Brazil",
+                "type": "national",
+                "wyId": 6381
+              },
+              "teamId": 6381
+            },
+            {
+              "competitionId": 43037,
+              "gameDraw": 0,
+              "gameLost": 1,
+              "gameTotal": 1,
+              "gameWon": 0,
+              "goalAgainst": 4,
+              "goalPro": 0,
+              "groupId": 0,
+              "groupName": "1",
+              "points": 0,
+              "rank": 2,
+              "roundId": 4421316,
+              "roundName": "Semi-Finals",
+              "seasonId": 186754,
+              "team": {
+                "area": {
+                  "alpha2code": "CA",
+                  "alpha3code": "CAN",
+                  "id": 124,
+                  "name": "Canada"
+                },
+                "category": "default",
+                "children": [
+                  {
+                    "name": "Canada U17",
+                    "wyId": 15026
+                  }
+                ],
+                "city": "Ottawa, Ontario",
+                "gender": "female",
+                "gsmId": 5970,
+                "name": "Canada",
+                "officialName": "Canada",
+                "type": "national",
+                "wyId": 15025
+              },
+              "teamId": 15025
+            }
+          ]
+        },
+        {
+          "teams": [
+            {
+              "competitionId": 43037,
+              "gameDraw": 0,
+              "gameLost": 0,
+              "gameTotal": 1,
+              "gameWon": 1,
+              "goalAgainst": 0,
+              "goalPro": 2,
+              "groupId": 1,
+              "groupName": "2",
+              "points": 3,
+              "rank": 1,
+              "roundId": 4421316,
+              "roundName": "Semi-Finals",
+              "seasonId": 186754,
+              "team": {
+                "area": {
+                  "alpha2code": "CN",
+                  "alpha3code": "CHN",
+                  "id": 156,
+                  "name": "China PR"
+                },
+                "category": "default",
+                "city": "Beijing",
+                "gender": "female",
+                "gsmId": 5971,
+                "name": "China PR",
+                "officialName": "China PR",
+                "type": "national",
+                "wyId": 9210
+              },
+              "teamId": 9210
+            },
+            {
+              "competitionId": 43037,
+              "gameDraw": 0,
+              "gameLost": 1,
+              "gameTotal": 1,
+              "gameWon": 0,
+              "goalAgainst": 2,
+              "goalPro": 0,
+              "groupId": 1,
+              "groupName": "2",
+              "points": 0,
+              "rank": 2,
+              "roundId": 4421316,
+              "roundName": "Semi-Finals",
+              "seasonId": 186754,
+              "team": {
+                "area": {
+                  "alpha2code": "NZ",
+                  "alpha3code": "NZL",
+                  "id": 554,
+                  "name": "New Zealand"
+                },
+                "category": "default",
+                "children": [
+                  {
+                    "name": "New Zealand U20",
+                    "wyId": 10527
+                  },
+                  {
+                    "name": "New Zealand U17",
+                    "wyId": 10526
+                  }
+                ],
+                "city": "Auckland",
+                "gender": "female",
+                "gsmId": 5980,
+                "name": "New Zealand",
+                "officialName": "New Zealand",
+                "type": "national",
+                "wyId": 10523
+              },
+              "teamId": 10523
+            }
+          ]
+        }
+      ],
+      "round": {
+        "competitionId": 43037,
+        "endDate": "2019-11-07",
+        "gsmId": -4880,
+        "name": "Semi-Finals",
+        "seasonId": 186754,
+        "startDate": "2019-11-07",
+        "type": "cup",
+        "wyId": 4421316
+      },
+      "roundId": 4421316
+    },
+    {
+      "groups": [
+        {
+          "teams": [
+            {
+              "competitionId": 43037,
+              "gameDraw": 0,
+              "gameLost": 0,
+              "gameTotal": 1,
+              "gameWon": 1,
+              "goalAgainst": 0,
+              "goalPro": 3,
+              "groupId": 0,
+              "groupName": "1",
+              "points": 3,
+              "rank": 1,
+              "roundId": 4421317,
+              "roundName": "3rd Place Final",
+              "seasonId": 186754,
+              "team": {
+                "area": {
+                  "alpha2code": "CA",
+                  "alpha3code": "CAN",
+                  "id": 124,
+                  "name": "Canada"
+                },
+                "category": "default",
+                "children": [
+                  {
+                    "name": "Canada U17",
+                    "wyId": 15026
+                  }
+                ],
+                "city": "Ottawa, Ontario",
+                "gender": "female",
+                "gsmId": 5970,
+                "name": "Canada",
+                "officialName": "Canada",
+                "type": "national",
+                "wyId": 15025
+              },
+              "teamId": 15025
+            },
+            {
+              "competitionId": 43037,
+              "gameDraw": 0,
+              "gameLost": 1,
+              "gameTotal": 1,
+              "gameWon": 0,
+              "goalAgainst": 3,
+              "goalPro": 0,
+              "groupId": 0,
+              "groupName": "1",
+              "points": 0,
+              "rank": 2,
+              "roundId": 4421317,
+              "roundName": "3rd Place Final",
+              "seasonId": 186754,
+              "team": {
+                "area": {
+                  "alpha2code": "NZ",
+                  "alpha3code": "NZL",
+                  "id": 554,
+                  "name": "New Zealand"
+                },
+                "category": "default",
+                "children": [
+                  {
+                    "name": "New Zealand U20",
+                    "wyId": 10527
+                  },
+                  {
+                    "name": "New Zealand U17",
+                    "wyId": 10526
+                  }
+                ],
+                "city": "Auckland",
+                "gender": "female",
+                "gsmId": 5980,
+                "name": "New Zealand",
+                "officialName": "New Zealand",
+                "type": "national",
+                "wyId": 10523
+              },
+              "teamId": 10523
+            }
+          ]
+        }
+      ],
+      "round": {
+        "competitionId": 43037,
+        "endDate": "2019-11-10",
+        "gsmId": -4881,
+        "name": "3rd Place Final",
+        "seasonId": 186754,
+        "startDate": "2019-11-10",
+        "type": "cup",
+        "wyId": 4421317
+      },
+      "roundId": 4421317
+    },
+    {
+      "groups": [
+        {
+          "teams": [
+            {
+              "competitionId": 43037,
+              "gameDraw": 0,
+              "gameLost": 0,
+              "gameTotal": 1,
+              "gameWon": 1,
+              "goalAgainst": 0,
+              "goalPro": 0,
+              "groupId": 0,
+              "groupName": "1",
+              "points": 3,
+              "rank": 1,
+              "roundId": 4421318,
+              "roundName": "Final",
+              "seasonId": 186754,
+              "team": {
+                "area": {
+                  "alpha2code": "CN",
+                  "alpha3code": "CHN",
+                  "id": 156,
+                  "name": "China PR"
+                },
+                "category": "default",
+                "city": "Beijing",
+                "gender": "female",
+                "gsmId": 5971,
+                "name": "China PR",
+                "officialName": "China PR",
+                "type": "national",
+                "wyId": 9210
+              },
+              "teamId": 9210
+            },
+            {
+              "competitionId": 43037,
+              "gameDraw": 0,
+              "gameLost": 1,
+              "gameTotal": 1,
+              "gameWon": 0,
+              "goalAgainst": 0,
+              "goalPro": 0,
+              "groupId": 0,
+              "groupName": "1",
+              "points": 0,
+              "rank": 2,
+              "roundId": 4421318,
+              "roundName": "Final",
+              "seasonId": 186754,
+              "team": {
+                "area": {
+                  "alpha2code": "BR",
+                  "alpha3code": "BRA",
+                  "id": 76,
+                  "name": "Brazil"
+                },
+                "category": "default",
+                "children": [
+                  {
+                    "name": "Brazil U20",
+                    "wyId": 6384
+                  },
+                  {
+                    "name": "Brazil U17",
+                    "wyId": 6383
+                  }
+                ],
+                "city": "Rio de Janeiro, Rio de Janeiro",
+                "gender": "female",
+                "gsmId": 5967,
+                "name": "Brazil",
+                "officialName": "Brazil",
+                "type": "national",
+                "wyId": 6381
+              },
+              "teamId": 6381
+            }
+          ]
+        }
+      ],
+      "round": {
+        "competitionId": 43037,
+        "endDate": "2019-11-10",
+        "gsmId": -4882,
+        "name": "Final",
+        "seasonId": 186754,
+        "startDate": "2019-11-10",
+        "type": "cup",
+        "wyId": 4421318
+      },
+      "roundId": 4421318
+    }
+  ],
+  "season": {
+    "active": true,
+    "competitionId": 43037,
+    "endDate": "2019-11-17",
+    "gsmId": -2095,
+    "name": "2019",
+    "startDate": "2019-11-07",
+    "wyId": 186754
+  }
+}

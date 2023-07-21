@@ -1,0 +1,202 @@
+{
+  "matches": [
+    {
+      "competitionId": 426,
+      "date": "2020-06-27 15:30:00",
+      "dateutc": "2020-06-27 13:30:00",
+      "gameweek": 34,
+      "label": "Borussia M'gladbach - Hertha BSC, 2-1",
+      "matchId": 2842778,
+      "roundId": 4420195,
+      "seasonId": 185821,
+      "status": "Played"
+    },
+    {
+      "competitionId": 426,
+      "date": "2020-06-20 15:30:00",
+      "dateutc": "2020-06-20 13:30:00",
+      "gameweek": 33,
+      "label": "Hertha BSC - Bayer Leverkusen, 2-0",
+      "matchId": 2842771,
+      "roundId": 4420195,
+      "seasonId": 185821,
+      "status": "Played"
+    },
+    {
+      "competitionId": 426,
+      "date": "2020-06-16 20:30:00",
+      "dateutc": "2020-06-16 18:30:00",
+      "gameweek": 32,
+      "label": "Freiburg - Hertha BSC, 2-1",
+      "matchId": 2842764,
+      "roundId": 4420195,
+      "seasonId": 185821,
+      "status": "Played"
+    },
+    {
+      "competitionId": 426,
+      "date": "2020-06-13 15:30:00",
+      "dateutc": "2020-06-13 13:30:00",
+      "gameweek": 31,
+      "label": "Hertha BSC - Eintracht Frankfurt, 1-4",
+      "matchId": 2842726,
+      "roundId": 4420195,
+      "seasonId": 185821,
+      "status": "Played"
+    },
+    {
+      "competitionId": 426,
+      "date": "2020-06-06 18:30:00",
+      "dateutc": "2020-06-06 16:30:00",
+      "gameweek": 30,
+      "label": "Borussia Dortmund - Hertha BSC, 1-0",
+      "matchId": 2842713,
+      "roundId": 4420195,
+      "seasonId": 185821,
+      "status": "Played"
+    },
+    {
+      "competitionId": 426,
+      "date": "2020-05-30 15:30:00",
+      "dateutc": "2020-05-30 13:30:00",
+      "gameweek": 29,
+      "label": "Hertha BSC - Augsburg, 2-0",
+      "matchId": 2842707,
+      "roundId": 4420195,
+      "seasonId": 185821,
+      "status": "Played"
+    },
+    {
+      "competitionId": 426,
+      "date": "2020-05-27 18:30:00",
+      "dateutc": "2020-05-27 16:30:00",
+      "gameweek": 28,
+      "label": "RB Leipzig - Hertha BSC, 2-2",
+      "matchId": 2842696,
+      "roundId": 4420195,
+      "seasonId": 185821,
+      "status": "Played"
+    },
+    {
+      "competitionId": 426,
+      "date": "2020-05-22 20:30:00",
+      "dateutc": "2020-05-22 18:30:00",
+      "gameweek": 27,
+      "label": "Hertha BSC - Union Berlin, 4-0",
+      "matchId": 2842690,
+      "roundId": 4420195,
+      "seasonId": 185821,
+      "status": "Played"
+    },
+    {
+      "competitionId": 426,
+      "date": "2020-05-16 15:30:00",
+      "dateutc": "2020-05-16 13:30:00",
+      "gameweek": 26,
+      "label": "Hoffenheim - Hertha BSC, 0-3",
+      "matchId": 2842681,
+      "roundId": 4420195,
+      "seasonId": 185821,
+      "status": "Played"
+    },
+    {
+      "competitionId": 426,
+      "date": "2020-03-07 15:30:00",
+      "dateutc": "2020-03-07 14:30:00",
+      "gameweek": 25,
+      "label": "Hertha BSC - Werder Bremen, 2-2",
+      "matchId": 2842672,
+      "roundId": 4420195,
+      "seasonId": 185821,
+      "status": "Played"
+    },
+    {
+      "competitionId": 426,
+      "date": "2020-02-28 20:30:00",
+      "dateutc": "2020-02-28 19:30:00",
+      "gameweek": 24,
+      "label": "Fortuna Düsseldorf - Hertha BSC, 3-3",
+      "matchId": 2842663,
+      "roundId": 4420195,
+      "seasonId": 185821,
+      "status": "Played"
+    },
+    {
+      "competitionId": 426,
+      "date": "2020-02-22 15:30:00",
+      "dateutc": "2020-02-22 14:30:00",
+      "gameweek": 23,
+      "label": "Hertha BSC - Köln, 0-5",
+      "matchId": 2842650,
+      "roundId": 4420195,
+      "seasonId": 185821,
+      "status": "Played"
+    },
+    {
+      "competitionId": 426,
+      "date": "2020-02-15 15:30:00",
+      "dateutc": "2020-02-15 14:30:00",
+      "gameweek": 22,
+      "label": "Paderborn - Hertha BSC, 1-2",
+      "matchId": 2842642,
+      "roundId": 4420195,
+      "seasonId": 185821,
+      "status": "Played"
+    },
+    {
+      "competitionId": 426,
+      "date": "2020-02-08 15:30:00",
+      "dateutc": "2020-02-08 14:30:00",
+      "gameweek": 21,
+      "label": "Hertha BSC - Mainz 05, 1-3",
+      "matchId": 2842632,
+      "roundId": 4420195,
+      "seasonId": 185821,
+      "status": "Played"
+    },
+    {
+      "competitionId": 426,
+      "date": "2020-01-31 20:30:00",
+      "dateutc": "2020-01-31 19:30:00",
+      "gameweek": 20,
+      "label": "Hertha BSC - Schalke 04, 0-0",
+      "matchId": 2842621,
+      "roundId": 4420195,
+      "seasonId": 185821,
+      "status": "Played"
+    }
+  ],
+  "player": {
+    "birthArea": {
+      "alpha2code": "PL",
+      "alpha3code": "POL",
+      "id": 616,
+      "name": "Poland"
+    },
+    "birthDate": "1995-07-01",
+    "currentNationalTeamId": 13869,
+    "currentTeamId": 2457,
+    "firstName": "Krzysztof",
+    "foot": "right",
+    "gender": "male",
+    "gsmId": 342295,
+    "height": 183,
+    "lastName": "Piątek",
+    "middleName": "",
+    "passportArea": {
+      "alpha2code": "PL",
+      "alpha3code": "POL",
+      "id": 616,
+      "name": "Poland"
+    },
+    "role": {
+      "code2": "FW",
+      "code3": "FWD",
+      "name": "Forward"
+    },
+    "shortName": "K. Piątek",
+    "status": "active",
+    "weight": 77,
+    "wyId": 329061
+  }
+}

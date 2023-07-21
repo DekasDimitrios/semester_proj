@@ -1,0 +1,1122 @@
+{
+  "coach": [
+    {
+      "birthArea": {
+        "alpha2code": "NL",
+        "alpha3code": "NLD",
+        "id": 528,
+        "name": "Netherlands"
+      },
+      "birthDate": "1963-03-21",
+      "currentTeamId": 676,
+      "firstName": "Ronald",
+      "gender": "male",
+      "gsmId": 104589,
+      "imageDataURL": "https://cdn5.wyscout.com/photos/players/public/g104589_100x130.png",
+      "lastName": "Koeman",
+      "middleName": "",
+      "passportArea": {
+        "alpha2code": "NL",
+        "alpha3code": "NLD",
+        "id": 528,
+        "name": "Netherlands"
+      },
+      "shortName": "R. Koeman",
+      "status": "active",
+      "type": "coach",
+      "wyId": 268779
+    }
+  ],
+  "squad": [
+    {
+      "birthArea": {
+        "alpha2code": "ES",
+        "alpha3code": "ESP",
+        "id": 724,
+        "name": "Spain"
+      },
+      "birthDate": "1989-03-21",
+      "currentNationalTeamId": 1598,
+      "currentTeamId": 676,
+      "firstName": "Jordi",
+      "foot": "left",
+      "gender": "male",
+      "gsmId": 60883,
+      "height": 170,
+      "imageDataURL": "https://cdn5.wyscout.com/photos/players/public/20129_100x130.png",
+      "lastName": "Alba Ramos",
+      "middleName": "",
+      "passportArea": {
+        "alpha2code": "ES",
+        "alpha3code": "ESP",
+        "id": 724,
+        "name": "Spain"
+      },
+      "role": {
+        "code2": "DF",
+        "code3": "DEF",
+        "name": "Defender"
+      },
+      "shortName": "Jordi Alba",
+      "status": "active",
+      "weight": 68,
+      "wyId": 3269
+    },
+    {
+      "birthArea": {
+        "alpha2code": "ES",
+        "alpha3code": "ESP",
+        "id": 724,
+        "name": "Spain"
+      },
+      "birthDate": "1987-02-02",
+      "currentTeamId": 676,
+      "firstName": "Gerard",
+      "foot": "right",
+      "gender": "male",
+      "gsmId": 10605,
+      "height": 194,
+      "imageDataURL": "https://cdn5.wyscout.com/photos/players/public/5038_100x130.png",
+      "lastName": "Piqué Bernabéu",
+      "middleName": "",
+      "passportArea": {
+        "alpha2code": "ES",
+        "alpha3code": "ESP",
+        "id": 724,
+        "name": "Spain"
+      },
+      "role": {
+        "code2": "DF",
+        "code3": "DEF",
+        "name": "Defender"
+      },
+      "shortName": "Gerard Piqué",
+      "status": "active",
+      "weight": 85,
+      "wyId": 3341
+    },
+    {
+      "birthArea": {
+        "alpha2code": "ES",
+        "alpha3code": "ESP",
+        "id": 724,
+        "name": "Spain"
+      },
+      "birthDate": "1988-07-16",
+      "currentNationalTeamId": 1598,
+      "currentTeamId": 676,
+      "firstName": "Sergio",
+      "foot": "right",
+      "gender": "male",
+      "gsmId": 61274,
+      "height": 189,
+      "imageDataURL": "https://cdn5.wyscout.com/photos/players/public/19126_100x130.png",
+      "lastName": "Busquets i Burgos",
+      "middleName": "",
+      "passportArea": {
+        "alpha2code": "ES",
+        "alpha3code": "ESP",
+        "id": 724,
+        "name": "Spain"
+      },
+      "role": {
+        "code2": "MD",
+        "code3": "MID",
+        "name": "Midfielder"
+      },
+      "shortName": "Sergio Busquets",
+      "status": "active",
+      "weight": 76,
+      "wyId": 3346
+    },
+    {
+      "birthArea": {
+        "alpha2code": "ES",
+        "alpha3code": "ESP",
+        "id": 724,
+        "name": "Spain"
+      },
+      "birthDate": "1992-02-07",
+      "currentTeamId": 676,
+      "firstName": "Sergi Roberto",
+      "foot": "right",
+      "gender": "male",
+      "gsmId": 103186,
+      "height": 178,
+      "imageDataURL": "https://cdn5.wyscout.com/photos/players/public/43906_100x130.png",
+      "lastName": "Carnicer",
+      "middleName": "",
+      "passportArea": {
+        "alpha2code": "ES",
+        "alpha3code": "ESP",
+        "id": 724,
+        "name": "Spain"
+      },
+      "role": {
+        "code2": "DF",
+        "code3": "DEF",
+        "name": "Defender"
+      },
+      "shortName": "Sergi Roberto",
+      "status": "active",
+      "weight": 68,
+      "wyId": 3347
+    },
+    {
+      "birthArea": {
+        "alpha2code": "AR",
+        "alpha3code": "ARG",
+        "id": 32,
+        "name": "Argentina"
+      },
+      "birthDate": "1987-06-24",
+      "currentNationalTeamId": 12274,
+      "currentTeamId": 676,
+      "firstName": "Lionel Andrés",
+      "foot": "left",
+      "gender": "male",
+      "gsmId": 119,
+      "height": 170,
+      "imageDataURL": "https://cdn5.wyscout.com/photos/players/public/3256_100x130.png",
+      "lastName": "Messi Cuccittini",
+      "middleName": "",
+      "passportArea": {
+        "alpha2code": "ES",
+        "alpha3code": "ESP",
+        "id": 724,
+        "name": "Spain"
+      },
+      "role": {
+        "code2": "FW",
+        "code3": "FWD",
+        "name": "Forward"
+      },
+      "shortName": "L. Messi",
+      "status": "active",
+      "weight": 72,
+      "wyId": 3359
+    },
+    {
+      "birthArea": {
+        "alpha2code": "FR",
+        "alpha3code": "FRA",
+        "id": 250,
+        "name": "France"
+      },
+      "birthDate": "1991-03-21",
+      "currentNationalTeamId": 4418,
+      "currentTeamId": 676,
+      "firstName": "Antoine",
+      "foot": "left",
+      "gender": "male",
+      "gsmId": 92385,
+      "height": 176,
+      "imageDataURL": "https://cdn5.wyscout.com/photos/players/public/42722_100x130.png",
+      "lastName": "Griezmann",
+      "middleName": "",
+      "passportArea": {
+        "alpha2code": "FR",
+        "alpha3code": "FRA",
+        "id": 250,
+        "name": "France"
+      },
+      "role": {
+        "code2": "FW",
+        "code3": "FWD",
+        "name": "Forward"
+      },
+      "shortName": "A. Griezmann",
+      "status": "active",
+      "weight": 73,
+      "wyId": 3682
+    },
+    {
+      "birthArea": {
+        "alpha2code": "BR",
+        "alpha3code": "BRA",
+        "id": 76,
+        "name": "Brazil"
+      },
+      "birthDate": "1992-06-12",
+      "currentTeamId": 676,
+      "firstName": "Philippe",
+      "foot": "right",
+      "gender": "male",
+      "gsmId": 82507,
+      "height": 172,
+      "imageDataURL": "https://cdn5.wyscout.com/photos/players/public/33553_100x130.png",
+      "lastName": "Coutinho Correia",
+      "middleName": "",
+      "passportArea": {
+        "alpha2code": "PT",
+        "alpha3code": "PRT",
+        "id": 620,
+        "name": "Portugal"
+      },
+      "role": {
+        "code2": "MD",
+        "code3": "MID",
+        "name": "Midfielder"
+      },
+      "shortName": "Philippe Coutinho",
+      "status": "active",
+      "weight": 68,
+      "wyId": 3802
+    },
+    {
+      "birthArea": {
+        "alpha2code": "DE",
+        "alpha3code": "DEU",
+        "id": 276,
+        "name": "Germany"
+      },
+      "birthDate": "1992-04-30",
+      "currentTeamId": 676,
+      "firstName": "Marc-André",
+      "foot": "right",
+      "gender": "male",
+      "gsmId": 102525,
+      "height": 187,
+      "imageDataURL": "https://cdn5.wyscout.com/photos/players/public/38423_100x130.png",
+      "lastName": "ter Stegen",
+      "middleName": "",
+      "passportArea": {
+        "alpha2code": "DE",
+        "alpha3code": "DEU",
+        "id": 276,
+        "name": "Germany"
+      },
+      "role": {
+        "code2": "GK",
+        "code3": "GKP",
+        "name": "Goalkeeper"
+      },
+      "shortName": "M. ter Stegen",
+      "status": "active",
+      "weight": 85,
+      "wyId": 15008
+    },
+    {
+      "birthArea": {
+        "alpha2code": "BA",
+        "alpha3code": "BIH",
+        "id": 70,
+        "name": "Bosnia-Herzegovina"
+      },
+      "birthDate": "1990-04-02",
+      "currentNationalTeamId": 10001,
+      "currentTeamId": 676,
+      "firstName": "Miralem",
+      "foot": "right",
+      "gender": "male",
+      "gsmId": 20591,
+      "height": 178,
+      "imageDataURL": "https://cdn5.wyscout.com/photos/players/public/4722_100x130.png",
+      "lastName": "Pjanić",
+      "middleName": "",
+      "passportArea": {
+        "alpha2code": "LU",
+        "alpha3code": "LUX",
+        "id": 442,
+        "name": "Luxembourg"
+      },
+      "role": {
+        "code2": "MD",
+        "code3": "MID",
+        "name": "Midfielder"
+      },
+      "shortName": "M. Pjanić",
+      "status": "active",
+      "weight": 72,
+      "wyId": 20443
+    },
+    {
+      "birthArea": {
+        "alpha2code": "BR",
+        "alpha3code": "BRA",
+        "id": 76,
+        "name": "Brazil"
+      },
+      "birthDate": "1989-07-19",
+      "currentTeamId": 676,
+      "firstName": "Norberto",
+      "foot": "right",
+      "gender": "male",
+      "gsmId": 89711,
+      "height": 190,
+      "imageDataURL": "https://cdn5.wyscout.com/photos/players/public/41220_100x130.png",
+      "lastName": "Murara Neto",
+      "middleName": "",
+      "passportArea": {
+        "alpha2code": "IT",
+        "alpha3code": "ITA",
+        "id": 380,
+        "name": "Italy"
+      },
+      "role": {
+        "code2": "GK",
+        "code3": "GKP",
+        "name": "Goalkeeper"
+      },
+      "shortName": "Neto",
+      "status": "active",
+      "weight": 84,
+      "wyId": 20922
+    },
+    {
+      "birthArea": {
+        "alpha2code": "CM",
+        "alpha3code": "CMR",
+        "id": 120,
+        "name": "Cameroon"
+      },
+      "birthDate": "1993-11-14",
+      "currentTeamId": 676,
+      "firstName": "Samuel Yves",
+      "foot": "left",
+      "gender": "male",
+      "gsmId": 158369,
+      "height": 182,
+      "imageDataURL": "https://cdn5.wyscout.com/photos/players/public/52954_100x130.png",
+      "lastName": "Umtiti",
+      "middleName": "",
+      "passportArea": {
+        "alpha2code": "FR",
+        "alpha3code": "FRA",
+        "id": 250,
+        "name": "France"
+      },
+      "role": {
+        "code2": "DF",
+        "code3": "DEF",
+        "name": "Defender"
+      },
+      "shortName": "S. Umtiti",
+      "status": "active",
+      "weight": 75,
+      "wyId": 25397
+    },
+    {
+      "birthArea": {
+        "alpha2code": "DK",
+        "alpha3code": "DNK",
+        "id": 208,
+        "name": "Denmark"
+      },
+      "birthDate": "1991-06-05",
+      "currentNationalTeamId": 7712,
+      "currentTeamId": 676,
+      "firstName": "Martin",
+      "foot": "right",
+      "gender": "male",
+      "gsmId": 99757,
+      "height": 177,
+      "imageDataURL": "https://cdn5.wyscout.com/photos/players/public/39991_100x130.png",
+      "lastName": "Braithwaite",
+      "middleName": "",
+      "passportArea": {
+        "alpha2code": "GY",
+        "alpha3code": "GUY",
+        "id": 328,
+        "name": "Guyana"
+      },
+      "role": {
+        "code2": "FW",
+        "code3": "FWD",
+        "name": "Forward"
+      },
+      "shortName": "M. Braithwaite",
+      "status": "active",
+      "weight": 73,
+      "wyId": 55968
+    },
+    {
+      "birthArea": {
+        "alpha2code": "FR",
+        "alpha3code": "FRA",
+        "id": 250,
+        "name": "France"
+      },
+      "birthDate": "1995-06-17",
+      "currentNationalTeamId": 4418,
+      "currentTeamId": 676,
+      "firstName": "Clément",
+      "foot": "left",
+      "gender": "male",
+      "gsmId": 215638,
+      "height": 186,
+      "imageDataURL": "https://cdn5.wyscout.com/photos/players/public/g215638_100x130.png",
+      "lastName": "Lenglet",
+      "middleName": "",
+      "passportArea": {
+        "alpha2code": "FR",
+        "alpha3code": "FRA",
+        "id": 250,
+        "name": "France"
+      },
+      "role": {
+        "code2": "DF",
+        "code3": "DEF",
+        "name": "Defender"
+      },
+      "shortName": "C. Lenglet",
+      "status": "active",
+      "weight": 81,
+      "wyId": 134503
+    },
+    {
+      "birthArea": {
+        "alpha2code": "ES",
+        "alpha3code": "ESP",
+        "id": 724,
+        "name": "Spain"
+      },
+      "birthDate": "1997-02-11",
+      "currentTeamId": 676,
+      "firstName": "Ferrán",
+      "foot": "left",
+      "gender": "male",
+      "gsmId": 316433,
+      "height": 177,
+      "imageDataURL": "https://cdn5.wyscout.com/photos/players/public/g316433_100x130.png",
+      "lastName": "Sarsanedas Soler",
+      "middleName": "",
+      "passportArea": {
+        "alpha2code": "ES",
+        "alpha3code": "ESP",
+        "id": 724,
+        "name": "Spain"
+      },
+      "role": {
+        "code2": "MD",
+        "code3": "MID",
+        "name": "Midfielder"
+      },
+      "shortName": "Ferrán Sarsanedas",
+      "status": "active",
+      "weight": 69,
+      "wyId": 282446
+    },
+    {
+      "birthArea": {
+        "alpha2code": "FR",
+        "alpha3code": "FRA",
+        "id": 250,
+        "name": "France"
+      },
+      "birthDate": "1997-05-15",
+      "currentNationalTeamId": 4418,
+      "currentTeamId": 676,
+      "firstName": "Ousmane",
+      "foot": "both",
+      "gender": "male",
+      "gsmId": 320112,
+      "height": 178,
+      "imageDataURL": "https://cdn5.wyscout.com/photos/players/public/g320112_100x130.png",
+      "lastName": "Dembélé",
+      "middleName": "",
+      "passportArea": {
+        "alpha2code": "MR",
+        "alpha3code": "MRT",
+        "id": 478,
+        "name": "Mauritania"
+      },
+      "role": {
+        "code2": "FW",
+        "code3": "FWD",
+        "name": "Forward"
+      },
+      "shortName": "O. Dembélé",
+      "status": "active",
+      "weight": 67,
+      "wyId": 286390
+    },
+    {
+      "birthArea": {
+        "alpha2code": "ES",
+        "alpha3code": "ESP",
+        "id": 724,
+        "name": "Spain"
+      },
+      "birthDate": "1999-01-20",
+      "currentTeamId": 676,
+      "firstName": "Oriol",
+      "foot": "right",
+      "gender": "male",
+      "gsmId": 372751,
+      "height": 185,
+      "imageDataURL": "https://cdn5.wyscout.com/photos/players/public/g372751_100x130.png",
+      "lastName": "Busquets Mas",
+      "middleName": "",
+      "passportArea": {
+        "alpha2code": "ES",
+        "alpha3code": "ESP",
+        "id": 724,
+        "name": "Spain"
+      },
+      "role": {
+        "code2": "MD",
+        "code3": "MID",
+        "name": "Midfielder"
+      },
+      "shortName": "Oriol Busquets",
+      "status": "active",
+      "weight": 77,
+      "wyId": 344046
+    },
+    {
+      "birthArea": {
+        "alpha2code": "BR",
+        "alpha3code": "BRA",
+        "id": 76,
+        "name": "Brazil"
+      },
+      "birthDate": "1998-02-25",
+      "currentTeamId": 676,
+      "firstName": "Matheus",
+      "foot": "left",
+      "gender": "male",
+      "gsmId": 398753,
+      "height": 182,
+      "imageDataURL": "https://cdn5.wyscout.com/photos/players/public/g398753_100x130.png",
+      "lastName": "Pereira da Silva",
+      "middleName": "",
+      "passportArea": {
+        "alpha2code": "BR",
+        "alpha3code": "BRA",
+        "id": 76,
+        "name": "Brazil"
+      },
+      "role": {
+        "code2": "MD",
+        "code3": "MID",
+        "name": "Midfielder"
+      },
+      "shortName": "Matheus Pereira",
+      "status": "active",
+      "weight": 76,
+      "wyId": 363991
+    },
+    {
+      "birthArea": {
+        "alpha2code": "DO",
+        "alpha3code": "DOM",
+        "id": 214,
+        "name": "Dominican Republic"
+      },
+      "birthDate": "1996-08-22",
+      "currentTeamId": 676,
+      "firstName": "Héctor Junior",
+      "foot": "left",
+      "gender": "male",
+      "gsmId": 396788,
+      "height": 184,
+      "imageDataURL": "https://cdn5.wyscout.com/photos/players/public/g396788_100x130.png",
+      "lastName": "Firpo Adames",
+      "middleName": "",
+      "passportArea": {
+        "alpha2code": "ES",
+        "alpha3code": "ESP",
+        "id": 724,
+        "name": "Spain"
+      },
+      "role": {
+        "code2": "DF",
+        "code3": "DEF",
+        "name": "Defender"
+      },
+      "shortName": "J. Firpo",
+      "status": "active",
+      "weight": 78,
+      "wyId": 364850
+    },
+    {
+      "birthArea": {
+        "alpha2code": "NL",
+        "alpha3code": "NLD",
+        "id": 528,
+        "name": "Netherlands"
+      },
+      "birthDate": "1997-05-12",
+      "currentNationalTeamId": 664,
+      "currentTeamId": 676,
+      "firstName": "Frenkie",
+      "foot": "right",
+      "gender": "male",
+      "gsmId": 404591,
+      "height": 180,
+      "imageDataURL": "https://cdn5.wyscout.com/photos/players/public/g404591_100x130.png",
+      "lastName": "de Jong",
+      "middleName": "",
+      "passportArea": {
+        "alpha2code": "NL",
+        "alpha3code": "NLD",
+        "id": 528,
+        "name": "Netherlands"
+      },
+      "role": {
+        "code2": "MD",
+        "code3": "MID",
+        "name": "Midfielder"
+      },
+      "shortName": "F. de Jong",
+      "status": "active",
+      "weight": 74,
+      "wyId": 373410
+    },
+    {
+      "birthArea": {
+        "alpha2code": "SN",
+        "alpha3code": "SEN",
+        "id": 686,
+        "name": "Senegal"
+      },
+      "birthDate": "1998-10-04",
+      "currentNationalTeamId": 19314,
+      "currentTeamId": 676,
+      "firstName": "Moussa",
+      "foot": "right",
+      "gender": "male",
+      "gsmId": 405580,
+      "height": 177,
+      "imageDataURL": "https://cdn5.wyscout.com/photos/players/public/g405580_100x130.png",
+      "lastName": "Wagué",
+      "middleName": "",
+      "passportArea": {
+        "alpha2code": "SN",
+        "alpha3code": "SEN",
+        "id": 686,
+        "name": "Senegal"
+      },
+      "role": {
+        "code2": "DF",
+        "code3": "DEF",
+        "name": "Defender"
+      },
+      "shortName": "M. Wagué",
+      "status": "active",
+      "weight": 70,
+      "wyId": 375348
+    },
+    {
+      "birthArea": {
+        "alpha2code": "PT",
+        "alpha3code": "PRT",
+        "id": 620,
+        "name": "Portugal"
+      },
+      "birthDate": "1999-12-29",
+      "currentNationalTeamId": 9910,
+      "currentTeamId": 676,
+      "firstName": "Francisco António",
+      "foot": "left",
+      "gender": "male",
+      "gsmId": 440079,
+      "height": 184,
+      "imageDataURL": "https://cdn5.wyscout.com/photos/players/public/g440079_100x130.png",
+      "lastName": "Machado Mota de Castro Trincão",
+      "middleName": "",
+      "passportArea": {
+        "alpha2code": "PT",
+        "alpha3code": "PRT",
+        "id": 620,
+        "name": "Portugal"
+      },
+      "role": {
+        "code2": "FW",
+        "code3": "FWD",
+        "name": "Forward"
+      },
+      "shortName": "Francisco Trincão",
+      "status": "active",
+      "weight": 70,
+      "wyId": 431540
+    },
+    {
+      "birthArea": {
+        "alpha2code": "UY",
+        "alpha3code": "URY",
+        "id": 858,
+        "name": "Uruguay"
+      },
+      "birthDate": "1999-03-07",
+      "currentNationalTeamId": 15670,
+      "currentTeamId": 676,
+      "firstName": "Ronald Federico",
+      "foot": "right",
+      "gender": "male",
+      "gsmId": 459276,
+      "height": 188,
+      "imageDataURL": "https://cdn5.wyscout.com/photos/players/public/g459276_100x130.png",
+      "lastName": "Araújo da Silva",
+      "middleName": "",
+      "passportArea": {
+        "alpha2code": "UY",
+        "alpha3code": "URY",
+        "id": 858,
+        "name": "Uruguay"
+      },
+      "role": {
+        "code2": "DF",
+        "code3": "DEF",
+        "name": "Defender"
+      },
+      "shortName": "R. Araújo",
+      "status": "active",
+      "weight": 79,
+      "wyId": 470747
+    },
+    {
+      "birthArea": {
+        "alpha2code": "ES",
+        "alpha3code": "ESP",
+        "id": 724,
+        "name": "Spain"
+      },
+      "birthDate": "1999-05-13",
+      "currentNationalTeamId": 1604,
+      "currentTeamId": 676,
+      "firstName": "Óscar",
+      "foot": "right",
+      "gender": "male",
+      "gsmId": 460017,
+      "height": 184,
+      "imageDataURL": "https://cdn5.wyscout.com/photos/players/public/g460017_100x130.png",
+      "lastName": "Mingueza García",
+      "middleName": "",
+      "passportArea": {
+        "alpha2code": "ES",
+        "alpha3code": "ESP",
+        "id": 724,
+        "name": "Spain"
+      },
+      "role": {
+        "code2": "DF",
+        "code3": "DEF",
+        "name": "Defender"
+      },
+      "shortName": "Óscar Mingueza",
+      "status": "active",
+      "weight": 75,
+      "wyId": 471761
+    },
+    {
+      "birthArea": {
+        "alpha2code": "BR",
+        "alpha3code": "BRA",
+        "id": 76,
+        "name": "Brazil"
+      },
+      "birthDate": "1998-06-30",
+      "currentTeamId": 676,
+      "firstName": "Matheus",
+      "foot": "right",
+      "gender": "male",
+      "gsmId": 467977,
+      "height": 183,
+      "imageDataURL": "https://cdn5.wyscout.com/photos/players/public/g467977_100x130.png",
+      "lastName": "Fernandes Siqueira",
+      "middleName": "",
+      "passportArea": {
+        "alpha2code": "BR",
+        "alpha3code": "BRA",
+        "id": 76,
+        "name": "Brazil"
+      },
+      "role": {
+        "code2": "MD",
+        "code3": "MID",
+        "name": "Midfielder"
+      },
+      "shortName": "Matheus Fernandes",
+      "status": "active",
+      "weight": 71,
+      "wyId": 481805
+    },
+    {
+      "birthArea": {
+        "alpha2code": "ES",
+        "alpha3code": "ESP",
+        "id": 724,
+        "name": "Spain"
+      },
+      "birthDate": "2000-08-07",
+      "currentTeamId": 676,
+      "firstName": "Alejandro",
+      "foot": "right",
+      "gender": "male",
+      "gsmId": 477413,
+      "height": 177,
+      "imageDataURL": "https://cdn5.wyscout.com/photos/players/public/g477413_100x130.png",
+      "lastName": "Orellana Gómez",
+      "middleName": "",
+      "passportArea": {
+        "alpha2code": "ES",
+        "alpha3code": "ESP",
+        "id": 724,
+        "name": "Spain"
+      },
+      "role": {
+        "code2": "MD",
+        "code3": "MID",
+        "name": "Midfielder"
+      },
+      "shortName": "Jandro Orellana",
+      "status": "active",
+      "weight": 63,
+      "wyId": 496495
+    },
+    {
+      "birthArea": {
+        "alpha2code": "NL",
+        "alpha3code": "NLD",
+        "id": 528,
+        "name": "Netherlands"
+      },
+      "birthDate": "2000-11-03",
+      "currentNationalTeamId": 8140,
+      "currentTeamId": 676,
+      "firstName": "Sergiño",
+      "foot": "right",
+      "gender": "male",
+      "gsmId": 479402,
+      "height": 175,
+      "imageDataURL": "https://cdn5.wyscout.com/photos/players/public/g479402_100x130.png",
+      "lastName": "Dest",
+      "middleName": "",
+      "passportArea": {
+        "alpha2code": "US",
+        "alpha3code": "USA",
+        "id": 840,
+        "name": "United States"
+      },
+      "role": {
+        "code2": "DF",
+        "code3": "DEF",
+        "name": "Defender"
+      },
+      "shortName": "S. Dest",
+      "status": "active",
+      "weight": 62,
+      "wyId": 499596
+    },
+    {
+      "birthArea": {
+        "alpha2code": "BR",
+        "alpha3code": "BRA",
+        "id": 76,
+        "name": "Brazil"
+      },
+      "currentTeamId": 676,
+      "firstName": "Matheus",
+      "gender": "male",
+      "gsmId": -60264,
+      "height": 0,
+      "imageDataURL": "https://cdn5.wyscout.com/photos/players/public/ndplayer_100x130.png",
+      "lastName": "Fernandes de",
+      "middleName": "",
+      "passportArea": {
+        "alpha2code": "BR",
+        "alpha3code": "BRA",
+        "id": 76,
+        "name": "Brazil"
+      },
+      "role": {
+        "code2": "",
+        "code3": "",
+        "name": ""
+      },
+      "shortName": "Matheus",
+      "status": "active",
+      "weight": 0,
+      "wyId": 523542
+    },
+    {
+      "birthArea": {
+        "alpha2code": "ES",
+        "alpha3code": "ESP",
+        "id": 724,
+        "name": "Spain"
+      },
+      "birthDate": "1999-08-13",
+      "currentTeamId": 676,
+      "firstName": "Ricard",
+      "foot": "right",
+      "gender": "male",
+      "gsmId": 506107,
+      "height": 169,
+      "imageDataURL": "https://cdn5.wyscout.com/photos/players/public/g506107_100x130.png",
+      "lastName": "Puig Martí",
+      "middleName": "",
+      "passportArea": {
+        "alpha2code": "ES",
+        "alpha3code": "ESP",
+        "id": 724,
+        "name": "Spain"
+      },
+      "role": {
+        "code2": "MD",
+        "code3": "MID",
+        "name": "Midfielder"
+      },
+      "shortName": "Riqui Puig",
+      "status": "active",
+      "weight": 56,
+      "wyId": 532467
+    },
+    {
+      "birthArea": {
+        "alpha2code": "BR",
+        "alpha3code": "BRA",
+        "id": 76,
+        "name": "Brazil"
+      },
+      "birthDate": "2000-01-16",
+      "currentTeamId": 676,
+      "firstName": "Lucas",
+      "foot": "right",
+      "gender": "male",
+      "gsmId": 509610,
+      "height": 178,
+      "imageDataURL": "https://cdn5.wyscout.com/photos/players/public/g509610_100x130.png",
+      "lastName": "De Vega Lima",
+      "middleName": "",
+      "passportArea": {
+        "alpha2code": "ES",
+        "alpha3code": "ESP",
+        "id": 724,
+        "name": "Spain"
+      },
+      "role": {
+        "code2": "MD",
+        "code3": "MID",
+        "name": "Midfielder"
+      },
+      "shortName": "Lucas De Vega",
+      "status": "active",
+      "weight": 73,
+      "wyId": 536651
+    },
+    {
+      "birthArea": {
+        "alpha2code": "GW",
+        "alpha3code": "GNB",
+        "id": 624,
+        "name": "Guinea-Bissau"
+      },
+      "birthDate": "2002-10-31",
+      "currentTeamId": 676,
+      "firstName": "Anssumane",
+      "foot": "right",
+      "gender": "male",
+      "gsmId": -99068,
+      "height": 178,
+      "imageDataURL": "https://cdn5.wyscout.com/photos/players/public/g-99068_100x130.png",
+      "lastName": "Fati",
+      "middleName": "",
+      "passportArea": {
+        "alpha2code": "ES",
+        "alpha3code": "ESP",
+        "id": 724,
+        "name": "Spain"
+      },
+      "role": {
+        "code2": "FW",
+        "code3": "FWD",
+        "name": "Forward"
+      },
+      "shortName": "Ansu Fati",
+      "status": "active",
+      "weight": 66,
+      "wyId": 584522
+    },
+    {
+      "birthArea": {
+        "alpha2code": "ES",
+        "alpha3code": "ESP",
+        "id": 724,
+        "name": "Spain"
+      },
+      "birthDate": "2002-11-25",
+      "currentNationalTeamId": 1598,
+      "currentTeamId": 676,
+      "firstName": "Pedro",
+      "foot": "right",
+      "gender": "male",
+      "gsmId": -132799,
+      "height": 174,
+      "imageDataURL": "https://cdn5.wyscout.com/photos/players/public/g-132799_100x130.png",
+      "lastName": "González López",
+      "middleName": "",
+      "passportArea": {
+        "alpha2code": "ES",
+        "alpha3code": "ESP",
+        "id": 724,
+        "name": "Spain"
+      },
+      "role": {
+        "code2": "MD",
+        "code3": "MID",
+        "name": "Midfielder"
+      },
+      "shortName": "Pedri",
+      "status": "active",
+      "weight": 60,
+      "wyId": 618294
+    }
+  ],
+  "staff": [
+    {
+      "birthArea": {
+        "alpha2code": "SE",
+        "alpha3code": "SWE",
+        "id": 752,
+        "name": "Sweden"
+      },
+      "birthDate": "1971-09-20",
+      "currentTeamId": 676,
+      "firstName": "Henrik",
+      "gender": "male",
+      "gsmId": 130141,
+      "imageDataURL": "https://cdn5.wyscout.com/photos/players/public/g130141_100x130.png",
+      "lastName": "Larsson",
+      "middleName": "",
+      "passportArea": {
+        "alpha2code": "SE",
+        "alpha3code": "SWE",
+        "id": 752,
+        "name": "Sweden"
+      },
+      "shortName": "H. Larsson",
+      "status": "active",
+      "type": "assistant co",
+      "wyId": 166595
+    },
+    {
+      "birthArea": {
+        "alpha2code": "NL",
+        "alpha3code": "NLD",
+        "id": 528,
+        "name": "Netherlands"
+      },
+      "birthDate": "1972-11-02",
+      "currentTeamId": 676,
+      "firstName": "Alfred",
+      "gender": "male",
+      "gsmId": 2249,
+      "imageDataURL": "https://cdn5.wyscout.com/photos/players/public/g2249_100x130.png",
+      "lastName": "Schreuder",
+      "middleName": "",
+      "passportArea": {
+        "alpha2code": "NL",
+        "alpha3code": "NLD",
+        "id": 528,
+        "name": "Netherlands"
+      },
+      "shortName": "A. Schreuder",
+      "status": "active",
+      "type": "assistant co",
+      "wyId": 255757
+    }
+  ]
+}
